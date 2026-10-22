@@ -362,6 +362,15 @@ def main():
     deals, free_on_store = fetch_deals(stores, genres)
     genres.save()
 
+    # if a source is down, keep yesterday's listings instead of publishing an empty site
+    previous = load_json(DOCS / "data.json", {})
+    if not deals and previous.get("deals"):
+        print("  ! no deals fetched - keeping previous deals")
+        deals = previous["deals"]
+    if not free and not free_on_store and previous.get("free"):
+        print("  ! no giveaways fetched - keeping previous free games")
+        free = previous["free"]
+
     seen_titles = {normalize(g["title"]) for g in free}
     free += [g for g in free_on_store if normalize(g["title"]) not in seen_titles]
 
