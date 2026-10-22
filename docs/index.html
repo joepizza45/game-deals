@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Loot Drop — Daily Game Deals</title>
+<meta name="description" content="Free games and the best PC game deals, updated daily and sorted by genre.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0b10;
+    --bg-2: #11131b;
+    --card: #151823;
+    --card-hover: #1b1f2e;
+    --line: #232838;
+    --text: #e8eaf2;
+    --muted: #8a90a6;
+    --accent: #7c5cff;
+    --accent-2: #00e5ff;
+    --free: #2bff88;
+    --hot: #ff3d6e;
+    --radius: 14px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; scroll-padding-top: 130px; }
+  body {
+    background: var(--bg);
+    background-image:
+      radial-gradient(900px 500px at 10% -10%, rgba(124,92,255,.18), transparent 60%),
+      radial-gradient(700px 400px at 100% 0%, rgba(0,229,255,.10), transparent 60%);
+    background-attachment: fixed;
+    color: var(--text);
+    font: 15px/1.5 Inter, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+
+  /* header */
+  header { padding: 40px 0 24px; }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px; display: grid; place-items: center;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    box-shadow: 0 0 24px rgba(124,92,255,.5);
+  }
+  .logo svg { width: 24px; height: 24px; }
+  h1, h2, .display { font-family: "Chakra Petch", sans-serif; letter-spacing: .5px; }
+  h1 { font-size: clamp(28px, 5vw, 44px); line-height: 1.05; text-transform: uppercase; }
+  h1 span {
+    background: linear-gradient(90deg, var(--accent-2), var(--accent));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .tagline { color: var(--muted); margin-top: 10px; max-width: 560px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+  .stat {
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px 16px; min-width: 120px;
+  }
+  .stat b { font-family: "Chakra Petch", sans-serif; font-size: 24px; display: block; line-height: 1.1; }
+  .stat small { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  .stat.free b { color: var(--free); }
+
+  /* toolbar */
+  .toolbar {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(10,11,16,.85); backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--line); padding: 12px 0;
+  }
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; }
+  .controls input, .controls select {
+    background: var(--bg-2); border: 1px solid var(--line); color: var(--text);
+    border-radius: 10px; padding: 9px 12px; font: inherit; outline: none;
+  }
+  .controls input { flex: 1 1 220px; min-width: 0; }
+  .controls input:focus, .controls select:focus { border-color: var(--accent); }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding-top: 10px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: none; border: 1px solid var(--line); background: var(--bg-2); color: var(--muted);
+    border-radius: 999px; padding: 6px 14px; font: 600 13px Inter, sans-serif; cursor: pointer;
+    transition: .15s;
+  }
+  .chip:hover { color: var(--text); border-color: #3a4160; }
+  .chip.on {
+    color: #fff; border-color: transparent;
+    background: linear-gradient(90deg, var(--accent), #5a7bff);
+    box-shadow: 0 0 16px rgba(124,92,255,.45);
+  }
+  .chip .n { opacity: .6; margin-left: 4px; font-weight: 500; }
+
+  /* sections */
+  section { margin: 36px 0; }
+  .sec-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 14px; }
+  .sec-head h2 { font-size: 22px; text-transform: uppercase; }
+  .sec-head .count { color: var(--muted); font-size: 13px; }
+  .sec-head::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--line), transparent); }
+  .free-sec .sec-head h2 { color: var(--free); text-shadow: 0 0 18px rgba(43,255,136,.35); }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; display: flex; flex-direction: column; transition: .18s;
+  }
+  .card:hover {
+    transform: translateY(-3px); background: var(--card-hover);
+    border-color: rgba(124,92,255,.6); box-shadow: 0 8px 30px rgba(124,92,255,.18);
+  }
+  .free-sec .card:hover { border-color: rgba(43,255,136,.6); box-shadow: 0 8px 30px rgba(43,255,136,.15); }
+  .thumb { position: relative; aspect-ratio: 460 / 215; background: #0d0f16; }
+  .thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+  .ph {
+    position: absolute; inset: 0; display: grid; place-items: center; padding: 16px; text-align: center;
+    font: 700 17px/1.2 "Chakra Petch", sans-serif; text-transform: uppercase; color: rgba(255,255,255,.85);
+    background: linear-gradient(135deg, #24135f, #0b3a52);
+  }
+  .badge {
+    position: absolute; top: 10px; left: 10px; font: 700 13px "Chakra Petch", sans-serif;
+    padding: 3px 9px; border-radius: 6px; letter-spacing: .5px;
+  }
+  .badge.off { background: var(--hot); color: #fff; box-shadow: 0 0 14px rgba(255,61,110,.5); }
+  .badge.free { background: var(--free); color: #062; box-shadow: 0 0 14px rgba(43,255,136,.5); }
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .title { font-weight: 600; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: 12px; color: var(--muted); }
+  .tag { background: #1e2232; border-radius: 5px; padding: 2px 7px; }
+  .tag.good { color: #7dffb5; } .tag.mid { color: #ffd36b; } .tag.bad { color: #ff8a8a; }
+  .foot { margin-top: auto; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+  .price { display: flex; align-items: baseline; gap: 8px; }
+  .price b { font: 700 20px "Chakra Petch", sans-serif; }
+  .price s { color: var(--muted); font-size: 13px; }
+  .free-sec .price b { color: var(--free); }
+  .store { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .store img { width: 16px; height: 16px; }
+  .ends { font-size: 12px; color: #ffb36b; }
+
+  .empty { color: var(--muted); text-align: center; padding: 60px 0; }
+  footer { color: var(--muted); font-size: 13px; text-align: center; padding: 40px 0 60px; border-top: 1px solid var(--line); margin-top: 40px; }
+  footer a { color: var(--accent-2); }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <div class="brand">
+    <div class="logo"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="12" rx="4"/><path d="M6 12h4M8 10v4"/><circle cx="16" cy="11" r="1" fill="#fff"/><circle cx="18" cy="13" r="1" fill="#fff"/></svg></div>
+    <div class="display" style="font-size:20px;font-weight:700">LOOT DROP</div>
+  </div>
+  <h1 style="margin-top:22px">Free games &amp; <span>killer deals</span><br>refreshed daily</h1>
+  <p class="tagline">Giveaways from Epic, Steam, GOG and more, plus the best-rated discounts across legit PC key stores. All sorted by genre.</p>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="toolbar">
+  <div class="wrap">
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search games…" aria-label="Search games">
+      <select id="sort" aria-label="Sort deals">
+        <option value="best">Best deals</option>
+        <option value="savings">Biggest discount</option>
+        <option value="price">Lowest price</option>
+        <option value="rating">Top rated</option>
+      </select>
+      <select id="store" aria-label="Filter by store"><option value="">All stores</option></select>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main class="wrap" id="main"></main>
+
+<footer class="wrap">
+  Updated <span id="updated"></span> · Data from <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>,
+  <a href="https://www.gamerpower.com" target="_blank" rel="noopener">GamerPower</a> and Steam.
+  Prices can change. Check the store before you buy.
+</footer>
+
+<script id="data" type="application/json">{"updated": "2026-10-22 06:01 UTC", "free": [{"id": "gp-3822", "title": "Terraspace", "worth": "$7.99", "image": "https://www.gamerpower.com/offers/1b/6ad9256e3eef5.jpg", "fallback": "https://www.gamerpower.com/offers/1/6ad9256e3eef5.jpg", "url": "https://www.gamerpower.com/open/terraspace-epic-games-giveaway", "platforms": "PC, Epic Games Store", "ends": "2026-10-27", "description": "Download Terraspace for free via Epic Games Store! Terraspace is a casual city builder game about creating conditions for life on unsuitable planets.", "genres": ["Adventure", "Casual"], "genre": "Adventure"}, {"id": "gp-3331", "title": "Last Room", "worth": "$29.99", "image": "https://www.gamerpower.com/offers/1b/68f91bd81c328.jpg", "fallback": "https://www.gamerpower.com/offers/1/68f91bd81c328.jpg", "url": "https://www.gamerpower.com/open/last-room-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Dive into a world of puzzles today! Download Last Room for free on IndieGala! Last Room is a 3d puzzle game with interactive environments, medieval mysteries and secret levels.", "genres": ["Action", "Adventure", "Casual", "Indie", "Strategy"], "genre": "Strategy"}, {"id": "gp-3820", "title": "GetHigh.EXE", "worth": "$1.99", "image": "https://www.gamerpower.com/offers/1b/6ad63cd807641.jpg", "fallback": "https://www.gamerpower.com/offers/1/6ad63cd807641.jpg", "url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway", "platforms": "PC, Epic Games Store", "ends": "2026-11-02", "description": "Claim GetHigh.EXE for free via Epic Games Store! GetHigh.EXE is a casual 3d parkour game where you run and jump through an obstacle course to reach the top.", "genres": ["Action", "Casual", "Indie"], "genre": "Action"}, {"id": "gp-3100", "title": "The Black Within", "worth": "$5.99", "image": "https://www.gamerpower.com/offers/1b/67cb0e32bf51c.jpg", "fallback": "https://www.gamerpower.com/offers/1/67cb0e32bf51c.jpg", "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway", "platforms": "PC, Itch.io, DRM-Free", "ends": "2026-10-24", "description": "Download The Black Within for free via itch.io! The Black Within is a single-player first-person psychological game with creepy atmosphere and puzzles. Check it out!", "genres": ["Adventure", "Indie"], "genre": "Adventure"}, {"id": "gp-3690", "title": "The Green Light", "worth": "$9.99", "image": "https://www.gamerpower.com/offers/1b/6a369af2d25aa.jpg", "fallback": "https://www.gamerpower.com/offers/1/6a369af2d25aa.jpg", "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway", "platforms": "PC, Itch.io, DRM-Free", "ends": "2026-10-29", "description": "Download The Green Light for free via itch.io until October 24th 2026. The Green Light is a indie first person game with a creepy atmosphere. Check it out!", "genres": ["Adventure", "Indie", "Simulation"], "genre": "Simulation"}, {"id": "gp-3817", "title": "Agent A: A puzzle in disguise", "worth": "$19.99", "image": "https://www.gamerpower.com/offers/1b/6ad0eb85db498.jpg", "fallback": "https://www.gamerpower.com/offers/1/6ad0eb85db498.jpg", "url": "https://www.gamerpower.com/open/agent-a-a-puzzle-in-disguise-epic-games-giveaway", "platforms": "PC, Android, iOS, Epic Games Store", "ends": "2026-10-22", "description": "Your mission, should you choose to accept it, is to claim this giveaway! Yes, you can grab Agent A: A Puzzle in Disguise for free from the Epic Games Store at no cost! Agent A: A Puzzle in Disguise is a stylish spy game packed with clever puzzles.\n\n*Please note this game is also available via Epic Games App (Android and iOS)!", "genres": ["Adventure", "Indie"], "genre": "Adventure"}, {"id": "gp-3816", "title": "Bad Cheese", "worth": "$12.99", "image": "https://www.gamerpower.com/offers/1b/6ad0ea7639b78.jpg", "fallback": "https://www.gamerpower.com/offers/1/6ad0ea7639b78.jpg", "url": "https://www.gamerpower.com/open/bad-cheese-epic-games-giveaway", "platforms": "PC, Epic Games Store", "ends": "2026-10-22", "description": "Claim Bad Cheese for free on the Epic Games Store! Bad Cheese is a very dark cartoon-style first-person game inspired by the eerie charm of 1920s animation.", "genres": ["Action", "Adventure"], "genre": "Action"}, {"id": "gp-3328", "title": "Best Plumber", "worth": "$29.99", "image": "https://www.gamerpower.com/offers/1b/68f40b259de93.jpg", "fallback": "https://www.gamerpower.com/offers/1/68f40b259de93.jpg", "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Ever dreamed of being a plumber? Probably not... but now’s your chance! Grab Best Plumber for free on IndieGala and step into the boots of a young plumber!", "genres": ["Casual", "Indie", "Simulation"], "genre": "Simulation"}, {"id": "gp-3792", "title": "Castlevania: 40th Anniversary", "worth": "", "image": "https://www.gamerpower.com/offers/1b/6ab6470a4ddf0.jpg", "fallback": "https://www.gamerpower.com/offers/1/6ab6470a4ddf0.jpg", "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway", "platforms": "Android, iOS", "ends": "2026-10-24", "description": "Celebrate Castlevania’s 40th Anniversary and claim the original NES classic for free on the App Store and Google Play until October 24.", "genres": ["Other"], "genre": "Other"}, {"id": "gp-3322", "title": "Sausage Hunter", "worth": "$29.99", "image": "https://www.gamerpower.com/offers/1b/68eadb2d6f0c4.jpg", "fallback": "https://www.gamerpower.com/offers/1/68eadb2d6f0c4.jpg", "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "The hunt for the magic sausage starts now! Download Sausage Hunter for free on IndieGala. Sausage Hunter is a 2D platformer with hand-drawn graphics and intriguing puzzles... plus a kitten and sausages, for some reason.", "genres": ["Casual", "Early Access"], "genre": "Casual"}, {"id": "gp-3324", "title": "Battle Ram", "worth": "$29.99", "image": "https://www.gamerpower.com/offers/1b/68efabd65f913.jpg", "fallback": "https://www.gamerpower.com/offers/1/68efabd65f913.jpg", "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Become the battle lamb you were born to be! Battle Ram is free this week on IndieGala, download it now! Battle Ram is a 2d action-packed game with lambs and battling robots.", "genres": ["Action", "Adventure", "Simulation", "Sports"], "genre": "Simulation"}, {"id": "gp-3316", "title": "Leaper", "worth": "$4.99", "image": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg", "fallback": "https://www.gamerpower.com/offers/1/68e6513c31514.jpg", "url": "https://www.gamerpower.com/open/leaper-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Time to put your reflexes to the test! Download Leaper for free on IndieGala! Leaper is a 2d side-scrolling platformer with colorful pixel graphics and precise jumping mechanics. Check it out!", "genres": ["Action", "Casual"], "genre": "Action"}, {"id": "gp-3313", "title": "Wordle", "worth": "$29.99", "image": "https://www.gamerpower.com/offers/1b/68e15e986da99.jpg", "fallback": "https://www.gamerpower.com/offers/1/68e15e986da99.jpg", "url": "https://www.gamerpower.com/open/wordle-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Dreaming about Wordle? What a coincidence, it’s on IndieGala for free! Download it now and make your dreams come true.", "genres": ["Casual", "Indie", "Simulation", "Sports"], "genre": "Simulation"}, {"id": "gp-3301", "title": "Bad cat Sam", "worth": "$2.99", "image": "https://www.gamerpower.com/offers/1b/68d828fc4174f.jpg", "fallback": "https://www.gamerpower.com/offers/1/68d828fc4174f.jpg", "url": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway", "platforms": "PC, DRM-Free", "ends": "", "description": "Download Bad cat Sam for free on IndieGala. Bad cat Sam is a 2d platformer about a cat named serious Sam.", "genres": ["Adventure", "Indie", "Strategy"], "genre": "Strategy"}, {"id": "gp-3716", "title": "Dwarven Realms Key", "worth": "$9.99", "image": "https://www.gamerpower.com/offers/1b/6a59119a8eb8d.jpg", "fallback": "https://www.gamerpower.com/offers/1/6a59119a8eb8d.jpg", "url": "https://www.gamerpower.com/open/dwarven-realms-steam-key-giveaway", "platforms": "PC, Steam", "ends": "", "description": "Claim free Steam keys for Dwarven Realms! Dwarven Realms is a 3D action-packed ARPG with epic powers and endless possibilities. Please note this Steam Key giveaway requires 10 ARP (Arena Reward Points) to claim a key. Fortunately, you can earn ARP daily for free.", "genres": ["Other"], "genre": "Other"}, {"id": "gp-3498", "title": "Primal Slideee Deluxe", "worth": "$1.99", "image": "https://www.gamerpower.com/offers/1b/6993208da38c7.jpg", "fallback": "https://www.gamerpower.com/offers/1/6993208da38c7.jpg", "url": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway", "platforms": "PC", "ends": "2026-10-31", "description": "Download Primal Slideee Deluxe for free via Stove until October 31!", "genres": ["Adventure", "Casual", "Indie", "Racing", "Free To Play"], "genre": "Racing"}, {"id": "gp-3446", "title": "GigaBash", "worth": "$24.99", "image": "https://www.gamerpower.com/offers/1b/69567c4ee0fa3.jpg", "fallback": "https://www.gamerpower.com/offers/1/69567c4ee0fa3.jpg", "url": "https://www.gamerpower.com/open/gigabash-pc-giveaway", "platforms": "PC", "ends": "", "description": "Score GigaBash for free via Stove and claim your place as king among Titans! GigaBash is a multiplayer arena brawler with gigantic film-inspired kaiju and fully destructible environments.", "genres": ["Action", "Casual", "Indie"], "genre": "Action"}, {"id": "gp-3251", "title": "Sharknado VR", "worth": "$1.99", "image": "https://www.gamerpower.com/offers/1b/689aece93310e.jpg", "fallback": "https://www.gamerpower.com/offers/1/689aece93310e.jpg", "url": "https://www.gamerpower.com/open/sharknado-vr-rift-giveaway", "platforms": "VR", "ends": "", "description": "Ready to relive Sharknado? Grab Sharknado VR (Rift S, Rift) for free via Meta. Sharknado VR puts you in the middle of the action. Can you survive the flying sharks?", "genres": ["Action", "Casual", "Indie", "Simulation"], "genre": "Simulation"}, {"id": "gp-2204", "title": "Dual Chroma: Academy Carols", "worth": "$2.00", "image": "https://www.gamerpower.com/offers/1b/63c6f67bb9c8b.jpg", "fallback": "https://www.gamerpower.com/offers/1/63c6f67bb9c8b.jpg", "url": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway", "platforms": "PC, Itch.io, DRM-Free", "ends": "", "description": "Grab Dual Chroma: Academy Carols for free on itch.io! Dual Chroma: Academy Carols is a slice-of-life Visual Novel. Check it out, If you are a fan of this type of game!", "genres": ["Casual", "Indie", "Simulation"], "genre": "Simulation"}], "deals": [], "genres": ["Strategy", "Simulation", "Racing", "Sports", "Action", "Adventure", "Casual", "Indie", "Free To Play", "Early Access", "Other"]}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const state = { genre: "", q: "", sort: "best", store: "" };
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  // stats
+  const bestOff = Math.max(0, ...D.deals.filter(d => d.price > 0).map(d => d.savings));
+  $("stats").innerHTML = `
+    <div class="stat free"><b>${D.free.length}</b><small>Free now</small></div>
+    <div class="stat"><b>${D.deals.length}</b><small>Hot deals</small></div>
+    <div class="stat"><b>-${bestOff}%</b><small>Best discount</small></div>
+    <div class="stat"><b>${D.genres.length}</b><small>Genres</small></div>`;
+  $("updated").textContent = D.updated;
+
+  // store filter
+  [...new Set(D.deals.map(d => d.store))].sort().forEach(s => {
+    const o = document.createElement("option"); o.value = o.textContent = s; $("store").appendChild(o);
+  });
+
+  // genre chips
+  const countFor = g => D.free.concat(D.deals).filter(x => x.genres.includes(g)).length;
+  const chipList = [["", "All", D.free.length + D.deals.length], ...D.genres.map(g => [g, g, countFor(g)])];
+  $("chips").innerHTML = chipList.map(([v, label, n]) =>
+    `<button class="chip${v === "" ? " on" : ""}" data-g="${esc(v)}">${esc(label)}<span class="n">${n}</span></button>`).join("");
+  $("chips").addEventListener("click", e => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    state.genre = b.dataset.g;
+    document.querySelectorAll(".chip").forEach(c => c.classList.toggle("on", c === b));
+    render(); window.scrollTo({ top: $("main").offsetTop - 130, behavior: "smooth" });
+  });
+  $("q").addEventListener("input", e => { state.q = e.target.value.toLowerCase().trim(); render(); });
+  $("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+  $("store").addEventListener("change", e => { state.store = e.target.value; render(); });
+
+  const ratingTag = d => {
+    if (!d.rating) return "";
+    const cls = d.rating >= 80 ? "good" : d.rating >= 60 ? "mid" : "bad";
+    return `<span class="tag ${cls}" title="${esc(d.ratingText)} on Steam">👍 ${d.rating}%</span>`;
+  };
+  // try the main image, then the fallback, then show a styled title placeholder
+  window.imgFail = el => {
+    const fb = el.dataset.fb;
+    if (fb && el.src !== fb) { el.dataset.fb = ""; el.src = fb; }
+    else { el.remove(); }
+  };
+  const img = (x) => `<span class="ph">${esc(x.title)}</span>` + (x.image
+    ? `<img src="${esc(x.image)}" data-fb="${esc(x.fallback || "")}" alt="${esc(x.title)}" loading="lazy" onerror="imgFail(this)">` : "");
+
+  const freeCard = g => `
+    <a class="card" href="${esc(g.url)}" target="_blank" rel="noopener">
+      <div class="thumb">${img(g)}<span class="badge free">FREE</span></div>
+      <div class="body">
+        <div class="title">${esc(g.title)}</div>
+        <div class="meta"><span class="tag">${esc(g.genre)}</span><span class="tag">${esc(g.platforms)}</span></div>
+        <div class="foot">
+          <div class="price"><b>$0</b>${g.worth ? `<s>${esc(g.worth)}</s>` : ""}</div>
+          ${g.ends ? `<span class="ends">Ends ${esc(g.ends)}</span>` : ""}
+        </div>
+      </div>
+    </a>`;
+
+  const dealCard = d => `
+    <a class="card" href="${esc(d.url)}" target="_blank" rel="noopener">
+      <div class="thumb">${img(d)}<span class="badge off">-${d.savings}%</span></div>
+      <div class="body">
+        <div class="title">${esc(d.title)}</div>
+        <div class="meta">${ratingTag(d)}${d.metacritic ? `<span class="tag">MC ${d.metacritic}</span>` : ""}</div>
+        <div class="foot">
+          <div class="price"><b>$${d.price.toFixed(2)}</b><s>$${d.normal.toFixed(2)}</s></div>
+          <span class="store">${d.storeIcon ? `<img src="${esc(d.storeIcon)}" alt="">` : ""}${esc(d.store)}</span>
+        </div>
+      </div>
+    </a>`;
+
+  const sorters = {
+    best: (a, b) => b.dealRating - a.dealRating || b.savings - a.savings,
+    savings: (a, b) => b.savings - a.savings,
+    price: (a, b) => a.price - b.price,
+    rating: (a, b) => b.rating - a.rating,
+  };
+  const matches = x => (!state.genre || x.genres.includes(state.genre)) &&
+                       (!state.q || x.title.toLowerCase().includes(state.q));
+
+  const section = (title, items, card, cls = "") => items.length ? `
+    <section class="${cls}">
+      <div class="sec-head"><h2>${esc(title)}</h2><span class="count">${items.length}</span></div>
+      <div class="grid">${items.map(card).join("")}</div>
+    </section>` : "";
+
+  function render() {
+    const free = state.store ? [] : D.free.filter(matches);
+    const deals = D.deals.filter(d => matches(d) && (!state.store || d.store === state.store)).sort(sorters[state.sort]);
+    let html = section("🎁 Free right now", free, freeCard, "free-sec");
+    if (state.genre) {
+      html += section(`${state.genre} deals`, deals, dealCard);
+    } else {
+      for (const g of D.genres.concat(["Other"].filter(o => !D.genres.includes(o)))) {
+        html += section(g, deals.filter(d => d.genre === g), dealCard);
+      }
+    }
+    $("main").innerHTML = html || `<div class="empty">No games match. Try another search or genre.</div>`;
+  }
+  render();
+})();
+</script>
+</body>
+</html>
