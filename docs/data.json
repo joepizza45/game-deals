@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-24 17:00 UTC",
+ "updated": "2026-10-25 17:00 UTC",
  "free": [
+  {
+   "id": "gp-3825",
+   "title": "MAFIA HOTEL",
+   "worth": "$1.99",
+   "image": "https://www.gamerpower.com/offers/1b/6add376bc36a0.jpg",
+   "fallback": "https://www.gamerpower.com/offers/1/6add376bc36a0.jpg",
+   "url": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway",
+   "platforms": "PC, Epic Games Store",
+   "ends": "2026-11-01",
+   "description": "Claim MAFIA HOTEL for free via Epic Games Store! MAFIA HOTEL is a 3d multiplayer social deduction game for up to 16 players.",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
   {
    "id": "gp-3824",
    "title": "Sker Ritual",
@@ -1361,28 +1379,6 @@
     "Casual",
     "RPG",
     "Sports"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D",
-   "title": "Assassin's Creed Odyssey - Deluxe Edition",
-   "price": 14.4,
-   "normal": 79.99,
-   "savings": 82,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/85f64a5bdd2045fcae1dbfaa2b03b28e/18f26e2f95974e6ab4f8181434d4dd00.jpg",
-   "fallback": "https://images.greenmangaming.com/85f64a5bdd2045fcae1dbfaa2b03b28e/18f26e2f95974e6ab4f8181434d4dd00.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=pITrgIMsnXV341gHkM9pj96sQIN5gzRh7CKk9j5hdP4%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
    ],
    "genre": "RPG"
   },
