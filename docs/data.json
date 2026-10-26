@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-25 17:00 UTC",
+ "updated": "2026-10-26 17:59 UTC",
  "free": [
+  {
+   "id": "gp-3340",
+   "title": "ANCIENT EVIL",
+   "worth": "$4.99",
+   "image": "https://www.gamerpower.com/offers/1b/69024dade7c16.jpg",
+   "fallback": "https://www.gamerpower.com/offers/1/69024dade7c16.jpg",
+   "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
+   "platforms": "PC, DRM-Free",
+   "ends": "",
+   "description": "Download ANCIENT EVIL for free via IndieGala! Ancient Evil is a 2d tactical RPG with puzzle elements. Don´t miss it!",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "genre": "Adventure"
+  },
   {
    "id": "gp-3825",
    "title": "MAFIA HOTEL",
@@ -397,6 +413,47 @@
    "genre": "Racing"
   },
   {
+   "id": "cs-Bq2LLzlAGJK5DYlt2NV7xu14hAR%2Fbw%2FkIiACu1nXROE%3D",
+   "title": "One Punch Man: A Hero Nobody Knows Deluxe Edition",
+   "price": 6.37,
+   "normal": 79.99,
+   "savings": 92,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=Bq2LLzlAGJK5DYlt2NV7xu14hAR%2Fbw%2FkIiACu1nXROE%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-IlslsB6jzX5j8mU8JSHse3u1e2o7lT378z2aA9nryMg%3D",
+   "title": "ONE PIECE World Seeker Deluxe Edition",
+   "price": 7.32,
+   "normal": 89.99,
+   "savings": 92,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=IlslsB6jzX5j8mU8JSHse3u1e2o7lT378z2aA9nryMg%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
+  },
+  {
    "id": "cs-OdCKe107lqKxgMVPq1CjObTbgF0lF3ewrwLsKibrAS8%3D",
    "title": "The Quarry Deluxe Edition",
    "price": 5.86,
@@ -480,9 +537,29 @@
    "genre": "Action"
   },
   {
+   "id": "cs-%2B7G5gkpKPf0AoUW6DpnvX1kbsJ%2FCvfn9EZ8d28G8lE4%3D",
+   "title": "SYNDUALITY: Echo of Ada Ultimate Edition",
+   "price": 8.64,
+   "normal": 99.99,
+   "savings": 91,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-ultimate-edition/cover-180-2a0e37.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-ultimate-edition/cover-180-2a0e37.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2B7G5gkpKPf0AoUW6DpnvX1kbsJ%2FCvfn9EZ8d28G8lE4%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
+  },
+  {
    "id": "cs-0NreKZ%2BRouiLaNqOq%2BZa77aAXnwBJIOCyQ1leWqzSUA%3D",
    "title": "SYNDUALITY: Echo of Ada Deluxe Edition",
-   "price": 6.35,
+   "price": 6.1,
    "normal": 69.99,
    "savings": 91,
    "store": "GameBillet",
@@ -519,67 +596,6 @@
     "RPG"
    ],
    "genre": "RPG"
-  },
-  {
-   "id": "cs-Bq2LLzlAGJK5DYlt2NV7xu14hAR%2Fbw%2FkIiACu1nXROE%3D",
-   "title": "One Punch Man: A Hero Nobody Knows Deluxe Edition",
-   "price": 7.16,
-   "normal": 79.99,
-   "savings": 91,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Bq2LLzlAGJK5DYlt2NV7xu14hAR%2Fbw%2FkIiACu1nXROE%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-IlslsB6jzX5j8mU8JSHse3u1e2o7lT378z2aA9nryMg%3D",
-   "title": "ONE PIECE World Seeker Deluxe Edition",
-   "price": 7.95,
-   "normal": 89.99,
-   "savings": 91,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=IlslsB6jzX5j8mU8JSHse3u1e2o7lT378z2aA9nryMg%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-%2B7G5gkpKPf0AoUW6DpnvX1kbsJ%2FCvfn9EZ8d28G8lE4%3D",
-   "title": "SYNDUALITY: Echo of Ada Ultimate Edition",
-   "price": 8.95,
-   "normal": 99.99,
-   "savings": 91,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-ultimate-edition/cover-180-2a0e37.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-ultimate-edition/cover-180-2a0e37.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2B7G5gkpKPf0AoUW6DpnvX1kbsJ%2FCvfn9EZ8d28G8lE4%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
   },
   {
    "id": "cs-QP6em8WtgtgOaxwGaGnzPv%2BQbXmJ1dYi9B%2B6ORb%2BuVk%3D",
@@ -641,6 +657,26 @@
     "Sports"
    ],
    "genre": "RPG"
+  },
+  {
+   "id": "cs-IZE0Ktezh1S5r0%2BqSsR5WLWa1iGWK1%2ByLqV5ThFmzUM%3D",
+   "title": "ONE PIECE BURNING BLOOD GOLD EDITION",
+   "price": 7.79,
+   "normal": 74.99,
+   "savings": 90,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=IZE0Ktezh1S5r0%2BqSsR5WLWa1iGWK1%2ByLqV5ThFmzUM%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-6iGPP7EfmBdtQQpIE52uKCll0U7fjTO6P2XR%2BNfD8A4%3D",
@@ -726,67 +762,111 @@
    "genre": "Action"
   },
   {
-   "id": "cs-vBcBR5HWelc%2BiepW0ceo1R9oJ%2B9wpjDbDU2s07JCbvk%3D",
-   "title": "Tumblestone",
-   "price": 2.49,
-   "normal": 24.99,
-   "savings": 90,
-   "store": "Humble Store",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
-   "rating": 88,
-   "ratingText": "Very Positive",
-   "metacritic": 91,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/capsule_231x87.jpg?t=1768587840",
-   "url": "https://www.cheapshark.com/redirect?dealID=vBcBR5HWelc%2BiepW0ceo1R9oJ%2B9wpjDbDU2s07JCbvk%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Casual",
-    "Indie",
-    "Strategy"
-   ],
-   "genre": "Strategy"
-  },
-  {
-   "id": "cs-IZE0Ktezh1S5r0%2BqSsR5WLWa1iGWK1%2ByLqV5ThFmzUM%3D",
-   "title": "ONE PIECE BURNING BLOOD GOLD EDITION",
-   "price": 7.95,
-   "normal": 74.99,
-   "savings": 89,
+   "id": "cs-1WFoPpAV%2FAXqp03JX66U23YPOpzStGk%2FEWSEk%2Frw%2FfY%3D",
+   "title": "SCARLET NEXUS Deluxe Edition",
+   "price": 9.45,
+   "normal": 79.99,
+   "savings": 88,
    "store": "GameBillet",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=IZE0Ktezh1S5r0%2BqSsR5WLWa1iGWK1%2ByLqV5ThFmzUM%3D",
+   "image": "https://sttc.gamersgate.com/images/product/scarlet-nexus-deluxe/cover-180-b1cf17.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/scarlet-nexus-deluxe/cover-180-b1cf17.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=1WFoPpAV%2FAXqp03JX66U23YPOpzStGk%2FEWSEk%2Frw%2FfY%3D",
    "dealRating": 10.0,
    "genres": [
-    "Action"
+    "Action",
+    "Adventure",
+    "RPG"
    ],
-   "genre": "Action"
+   "genre": "RPG"
   },
   {
-   "id": "cs-jUIksCf7OKL1gDeMjhT%2Fx%2Bi7HWhFLcE2qWzPWrrvzmI%3D",
-   "title": "Darksiders Blades and Whip Franchise Pack",
-   "price": 9.68,
-   "normal": 79.99,
-   "savings": 88,
-   "store": "WinGameStore",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
+   "id": "cs-1B13cehLIR625D7BKAyCQgIzwyPAK7%2BT2J6beGDwJmg%3D",
+   "title": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
+   "price": 10.33,
+   "normal": 79.98,
+   "savings": 87,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=jUIksCf7OKL1gDeMjhT%2Fx%2Bi7HWhFLcE2qWzPWrrvzmI%3D",
+   "image": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=1B13cehLIR625D7BKAyCQgIzwyPAK7%2BT2J6beGDwJmg%3D",
    "dealRating": 10.0,
    "genres": [
-    "Other"
+    "Adventure",
+    "RPG"
    ],
-   "genre": "Other"
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-MPCjswiIjElCZZau8W23nE39vyXSb%2FUd00SQQrfjSyw%3D",
+   "title": "TEKKEN 7 - Originals Edition",
+   "price": 11.6,
+   "normal": 89.99,
+   "savings": 87,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/tekken-7-originals-edition/cover-180-80f2e1.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/tekken-7-originals-edition/cover-180-80f2e1.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=MPCjswiIjElCZZau8W23nE39vyXSb%2FUd00SQQrfjSyw%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action",
+    "Sports"
+   ],
+   "genre": "Sports"
+  },
+  {
+   "id": "cs-nAzDinT%2FFzZMrwEyhlW%2FnbkgiT7Nogm77Tq4PAL6a%2BE%3D",
+   "title": "SCARLET NEXUS Ultimate Edition",
+   "price": 12.87,
+   "normal": 99.99,
+   "savings": 87,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://images.greenmangaming.com/ce77d02334d0460da2c70207fe3e9a2a/ee7127ac849d40a4979a0437bc9f2b23.jpg",
+   "fallback": "https://images.greenmangaming.com/ce77d02334d0460da2c70207fe3e9a2a/ee7127ac849d40a4979a0437bc9f2b23.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=nAzDinT%2FFzZMrwEyhlW%2FnbkgiT7Nogm77Tq4PAL6a%2BE%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-TE6ODOmTzpbHHpzrv4RqfP%2BL2r%2FSpDyM3zwLmKwGVZg%3D",
+   "title": "TEKKEN 7 - Definitive Edition",
+   "price": 14.14,
+   "normal": 109.99,
+   "savings": 87,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=TE6ODOmTzpbHHpzrv4RqfP%2BL2r%2FSpDyM3zwLmKwGVZg%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action",
+    "Sports"
+   ],
+   "genre": "Sports"
   },
   {
    "id": "cs-cxIR4Aemd8PtBSIr%2Bkoppb17YeeTQik98b5bHFx1q24%3D",
@@ -810,48 +890,6 @@
    "genre": "RPG"
   },
   {
-   "id": "cs-1B13cehLIR625D7BKAyCQgIzwyPAK7%2BT2J6beGDwJmg%3D",
-   "title": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
-   "price": 10.76,
-   "normal": 79.98,
-   "savings": 87,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=1B13cehLIR625D7BKAyCQgIzwyPAK7%2BT2J6beGDwJmg%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-MPCjswiIjElCZZau8W23nE39vyXSb%2FUd00SQQrfjSyw%3D",
-   "title": "TEKKEN 7 - Originals Edition",
-   "price": 11.95,
-   "normal": 89.99,
-   "savings": 87,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/tekken-7-originals-edition/cover-180-80f2e1.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/tekken-7-originals-edition/cover-180-80f2e1.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=MPCjswiIjElCZZau8W23nE39vyXSb%2FUd00SQQrfjSyw%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Sports"
-   ],
-   "genre": "Sports"
-  },
-  {
    "id": "cs-D%2Fvo4iP2dqX6%2Fm%2FuR7UIZEClDzwKKtL4d2%2FOekOD8rA%3D",
    "title": "Sid Meiers Civilization VI Anthology",
    "price": 13.29,
@@ -872,47 +910,44 @@
    "genre": "Strategy"
   },
   {
-   "id": "cs-nAzDinT%2FFzZMrwEyhlW%2FnbkgiT7Nogm77Tq4PAL6a%2BE%3D",
-   "title": "SCARLET NEXUS Ultimate Edition",
-   "price": 13.45,
-   "normal": 99.99,
-   "savings": 87,
+   "id": "cs-5cP3avC72LuAevH3A8%2Fz170vpSgcwcZfHnJQrXljloA%3D",
+   "title": "SOULCALIBUR VI Deluxe Edition",
+   "price": 12.36,
+   "normal": 89.99,
+   "savings": 86,
    "store": "GameBillet",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://images.greenmangaming.com/ce77d02334d0460da2c70207fe3e9a2a/ee7127ac849d40a4979a0437bc9f2b23.jpg",
-   "fallback": "https://images.greenmangaming.com/ce77d02334d0460da2c70207fe3e9a2a/ee7127ac849d40a4979a0437bc9f2b23.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=nAzDinT%2FFzZMrwEyhlW%2FnbkgiT7Nogm77Tq4PAL6a%2BE%3D",
+   "image": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=5cP3avC72LuAevH3A8%2Fz170vpSgcwcZfHnJQrXljloA%3D",
    "dealRating": 10.0,
    "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
+    "Action"
    ],
-   "genre": "RPG"
+   "genre": "Action"
   },
   {
-   "id": "cs-TE6ODOmTzpbHHpzrv4RqfP%2BL2r%2FSpDyM3zwLmKwGVZg%3D",
-   "title": "TEKKEN 7 - Definitive Edition",
-   "price": 14.81,
-   "normal": 109.99,
-   "savings": 87,
+   "id": "cs-xnePOtkxBGnqEnsFzwDU2woPFcBfDwTSS81HMWtucMc%3D",
+   "title": "Dragon Ball Fighter Z  FighterZ Edition",
+   "price": 12.36,
+   "normal": 89.99,
+   "savings": 86,
    "store": "GameBillet",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=TE6ODOmTzpbHHpzrv4RqfP%2BL2r%2FSpDyM3zwLmKwGVZg%3D",
+   "image": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=xnePOtkxBGnqEnsFzwDU2woPFcBfDwTSS81HMWtucMc%3D",
    "dealRating": 10.0,
    "genres": [
-    "Action",
-    "Sports"
+    "Other"
    ],
-   "genre": "Sports"
+   "genre": "Other"
   },
   {
    "id": "cs-4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D",
@@ -1000,28 +1035,6 @@
    "genre": "Action"
   },
   {
-   "id": "cs-1WFoPpAV%2FAXqp03JX66U23YPOpzStGk%2FEWSEk%2Frw%2FfY%3D",
-   "title": "SCARLET NEXUS Deluxe Edition",
-   "price": 10.95,
-   "normal": 79.99,
-   "savings": 86,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/scarlet-nexus-deluxe/cover-180-b1cf17.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/scarlet-nexus-deluxe/cover-180-b1cf17.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=1WFoPpAV%2FAXqp03JX66U23YPOpzStGk%2FEWSEk%2Frw%2FfY%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
    "id": "cs-vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D",
    "title": "Far Cry 5 Gold Edition",
    "price": 12.15,
@@ -1106,67 +1119,6 @@
    "genre": "RPG"
   },
   {
-   "id": "cs-5cP3avC72LuAevH3A8%2Fz170vpSgcwcZfHnJQrXljloA%3D",
-   "title": "SOULCALIBUR VI Deluxe Edition",
-   "price": 12.63,
-   "normal": 89.99,
-   "savings": 86,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=5cP3avC72LuAevH3A8%2Fz170vpSgcwcZfHnJQrXljloA%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-xnePOtkxBGnqEnsFzwDU2woPFcBfDwTSS81HMWtucMc%3D",
-   "title": "Dragon Ball Fighter Z  FighterZ Edition",
-   "price": 12.92,
-   "normal": 89.99,
-   "savings": 86,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=xnePOtkxBGnqEnsFzwDU2woPFcBfDwTSS81HMWtucMc%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Other"
-   ],
-   "genre": "Other"
-  },
-  {
-   "id": "cs-BfyLP1SjMhSfo62%2FNBNSTyxnUPX6%2BnGYK990MAiT57s%3D",
-   "title": "Far Cry New Dawn Ultimate Bundle",
-   "price": 17.55,
-   "normal": 129.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/f96a0c07660448b5ba49e251f8ffab4b/16ed496a06bd4a6c915cc367e329824b.jpg",
-   "fallback": "https://images.greenmangaming.com/f96a0c07660448b5ba49e251f8ffab4b/16ed496a06bd4a6c915cc367e329824b.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=BfyLP1SjMhSfo62%2FNBNSTyxnUPX6%2BnGYK990MAiT57s%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
    "id": "cs-NBJWJqqImhbab7f0Ik3oGfwzeaAbcYXKru%2BvTNC2vWQ%3D",
    "title": "Witch It - 4 Pack",
    "price": 11.99,
@@ -1189,19 +1141,19 @@
    "genre": "Action"
   },
   {
-   "id": "cs-VInMhsJ%2F5VKKxv1MJWk5lvGgKiq9HjcIiewGo%2FPmGcs%3D",
-   "title": "Far Cry 5 and Far Cry New Dawn Deluxe Edition Bundle",
-   "price": 14.99,
-   "normal": 99.99,
+   "id": "cs-yFXXQ9%2FWqqMDEcNkjwXVRj4JS0eoPGmWJMU4uypnt5w%3D",
+   "title": "Darksiders Blades and Whip Franchise Pack",
+   "price": 12.0,
+   "normal": 79.99,
    "savings": 85,
-   "store": "Humble Store",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://cdn.humblebundle.com/misc/files/hashed/85970297dbcd85c44bd2112f2e33292144559ef1.png",
-   "fallback": "https://cdn.humblebundle.com/misc/files/hashed/85970297dbcd85c44bd2112f2e33292144559ef1.png",
-   "url": "https://www.cheapshark.com/redirect?dealID=VInMhsJ%2F5VKKxv1MJWk5lvGgKiq9HjcIiewGo%2FPmGcs%3D",
+   "image": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=yFXXQ9%2FWqqMDEcNkjwXVRj4JS0eoPGmWJMU4uypnt5w%3D",
    "dealRating": 10.0,
    "genres": [
     "Other"
@@ -1209,84 +1161,19 @@
    "genre": "Other"
   },
   {
-   "id": "cs-Rq5q1q7w6jdc8AR9z%2FSNQVM8OFID3tMIxpIEHwLU9SI%3D",
-   "title": "Marvels Midnight Suns Digital Edition",
-   "price": 12.8,
-   "normal": 79.99,
-   "savings": 84,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Rq5q1q7w6jdc8AR9z%2FSNQVM8OFID3tMIxpIEHwLU9SI%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "RPG",
-    "Strategy"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-9I5stk%2FdQqF%2FFlZjYqDmWdnI3ffZbBBaQSwbOHbEusU%3D",
-   "title": "Captain Tsubasa: Rise of New Champions - Deluxe Edition",
-   "price": 13.59,
-   "normal": 84.99,
-   "savings": 84,
-   "store": "Humble Store",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-deluxe-edition/cover-180-f93a22.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-deluxe-edition/cover-180-f93a22.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=9I5stk%2FdQqF%2FFlZjYqDmWdnI3ffZbBBaQSwbOHbEusU%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Casual",
-    "RPG",
-    "Sports"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-VRc0M%2FrWmOzHgAcez%2Fvi3vJXwA%2B9GwwiA3tbJo2imHQ%3D",
-   "title": "Marvels Midnight Suns Legendary Edition",
-   "price": 15.99,
-   "normal": 99.99,
-   "savings": 84,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=VRc0M%2FrWmOzHgAcez%2Fvi3vJXwA%2B9GwwiA3tbJo2imHQ%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "RPG",
-    "Strategy"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-Una9N8HIbAd6DysTVPuF%2BaELALgCIygAikeS0wS663o%3D",
+   "id": "cs-YS1OanLVFDrmo3hfKBNpF%2BPEZB8JuuEBhrdPfVHUNLo%3D",
    "title": "One Piece: Pirate Warriors 4 - Ultimate Edition",
-   "price": 14.4,
+   "price": 14.39,
    "normal": 89.99,
    "savings": 84,
-   "store": "GamersGate",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
+   "store": "IndieGala",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
    "image": "https://sttc.gamersgate.com/images/product/one-piece-pirate-warriors-4-ultimate-edition/cover-180-211f4c.jpg",
    "fallback": "https://sttc.gamersgate.com/images/product/one-piece-pirate-warriors-4-ultimate-edition/cover-180-211f4c.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Una9N8HIbAd6DysTVPuF%2BaELALgCIygAikeS0wS663o%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=YS1OanLVFDrmo3hfKBNpF%2BPEZB8JuuEBhrdPfVHUNLo%3D",
    "dealRating": 10.0,
    "genres": [
     "Action"
@@ -1294,85 +1181,19 @@
    "genre": "Action"
   },
   {
-   "id": "cs-3rgBb8xIvOfBnopbSf4w6KSr6r6TLrh49ibl0MKXwoc%3D",
-   "title": "SCARLET NEXUS Deluxe",
-   "price": 13.69,
-   "normal": 79.99,
-   "savings": 83,
-   "store": "WinGameStore",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
-   "fallback": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=3rgBb8xIvOfBnopbSf4w6KSr6r6TLrh49ibl0MKXwoc%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-zgHtXjwaMEzAvqkQ5Q6NBmfu8Dr%2B2GIRSsdydPwZtBc%3D",
-   "title": "Warhammer 40,000: Inquisitor - Martyr Definitive Edition",
-   "price": 14.95,
-   "normal": 89.99,
-   "savings": 83,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://cdn.humblebundle.com/misc/files/hashed/51c9454abb71ffa7ba6c0f25cc6b4a00cca69943.png",
-   "fallback": "https://cdn.humblebundle.com/misc/files/hashed/51c9454abb71ffa7ba6c0f25cc6b4a00cca69943.png",
-   "url": "https://www.cheapshark.com/redirect?dealID=zgHtXjwaMEzAvqkQ5Q6NBmfu8Dr%2B2GIRSsdydPwZtBc%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Indie",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-y7ujahjHzWcqASOz7OUxi2qjKEgmf9vbOXOxobV30mE%3D",
-   "title": "Warhammer Age of Sigmar: Realms of Ruin Ultimate Edition",
-   "price": 13.46,
-   "normal": 74.99,
-   "savings": 82,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition/cover-180-f62047.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition/cover-180-f62047.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=y7ujahjHzWcqASOz7OUxi2qjKEgmf9vbOXOxobV30mE%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Strategy"
-   ],
-   "genre": "Strategy"
-  },
-  {
-   "id": "cs-cp9gk5Urg7saUYyPseqv7tTCSrPs9abYoXPBzszyFMA%3D",
+   "id": "cs-Ridzp4iQIn6TDlbzjMfYVcJbc2HEjcjQCdAmga1jTgo%3D",
    "title": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
-   "price": 14.36,
+   "price": 12.4,
    "normal": 79.99,
-   "savings": 82,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "savings": 84,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
    "image": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-ultimate-edition/cover-180-3e59d7.jpg",
    "fallback": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-ultimate-edition/cover-180-3e59d7.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=cp9gk5Urg7saUYyPseqv7tTCSrPs9abYoXPBzszyFMA%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=Ridzp4iQIn6TDlbzjMfYVcJbc2HEjcjQCdAmga1jTgo%3D",
    "dealRating": 10.0,
    "genres": [
     "Action",
@@ -1383,19 +1204,145 @@
    "genre": "RPG"
   },
   {
-   "id": "cs-qzSSUq%2BRrrY7jQFfKTaQdwWALr9nlMXsAP4mJfbgyV8%3D",
+   "id": "cs-XMQHKV8JIN7i465lnPC81KM7R%2B0HYv3Kfx7mzHBO8mU%3D",
+   "title": "Omega Labyrinth Life - Deluxe Edition",
+   "price": 13.49,
+   "normal": 79.99,
+   "savings": 83,
+   "store": "WinGameStore",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/omega-labyrinth-life-deluxe-edition/cover-180-4b5d80.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/omega-labyrinth-life-deluxe-edition/cover-180-4b5d80.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=XMQHKV8JIN7i465lnPC81KM7R%2B0HYv3Kfx7mzHBO8mU%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-oCk2pArU9zNFDA7zNAd0G8inisNPi8SPJHGK%2Bgfs6tU%3D",
+   "title": "Park Beyond Complete Edition",
+   "price": 12.91,
+   "normal": 74.99,
+   "savings": 83,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://cdn.fanatical.com/production/product/400x225/79f8ba1b-0d7f-48d1-bd49-0420b1564e02.jpeg",
+   "fallback": "https://cdn.fanatical.com/production/product/400x225/79f8ba1b-0d7f-48d1-bd49-0420b1564e02.jpeg",
+   "url": "https://www.cheapshark.com/redirect?dealID=oCk2pArU9zNFDA7zNAd0G8inisNPi8SPJHGK%2Bgfs6tU%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
+  {
+   "id": "cs-zF92ZX6e%2BGTJY23Hzp42mhl5ctHcsPYDVgby02hm7ik%3D",
+   "title": "SCARLET NEXUS Deluxe",
+   "price": 14.39,
+   "normal": 79.99,
+   "savings": 82,
+   "store": "IndieGala",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
+   "fallback": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=zF92ZX6e%2BGTJY23Hzp42mhl5ctHcsPYDVgby02hm7ik%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-je67P%2FxzjbovTBSuw1SnffTSE5DFX7RLZ8Caps0EG3c%3D",
+   "title": "Marvels Midnight Suns Digital Edition",
+   "price": 14.4,
+   "normal": 79.99,
+   "savings": 82,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=je67P%2FxzjbovTBSuw1SnffTSE5DFX7RLZ8Caps0EG3c%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-TtQ7e%2FsaPwMa4ukJZERlwijo6Spazr3mVVm0J5V4%2F10%3D",
+   "title": "Marvels Midnight Suns Legendary Edition",
+   "price": 18.0,
+   "normal": 99.99,
+   "savings": 82,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=TtQ7e%2FsaPwMa4ukJZERlwijo6Spazr3mVVm0J5V4%2F10%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "RPG",
+    "Strategy"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-4gSTR7NG2599d6sBn%2Bk0P9%2FM3iiRfW6aoUo13jDQTQc%3D",
+   "title": "CUSTOM MECH WARS ULTIMATE EDITION",
+   "price": 13.99,
+   "normal": 74.99,
+   "savings": 81,
+   "store": "WinGameStore",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/custom-mech-wars-ultimate-edition/cover-180-572cfa.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/custom-mech-wars-ultimate-edition/cover-180-572cfa.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=4gSTR7NG2599d6sBn%2Bk0P9%2FM3iiRfW6aoUo13jDQTQc%3D",
+   "dealRating": 10.0,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-csJdf%2B8hfxPtrHX4D91i1IaXJ%2FPKl%2BN8%2B6F%2FZ6KyE%2F0%3D",
    "title": "Frosthaven",
-   "price": 23.19,
+   "price": 23.23,
    "normal": 39.99,
    "savings": 42,
-   "store": "GameBillet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
    "rating": 69,
    "ratingText": "Mixed",
    "metacritic": 0,
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2347080/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2347080/a6b7b547d523b9fc2ef12ae0731156a30c0cb65f/capsule_231x87.jpg?t=1792089974",
-   "url": "https://www.cheapshark.com/redirect?dealID=qzSSUq%2BRrrY7jQFfKTaQdwWALr9nlMXsAP4mJfbgyV8%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=csJdf%2B8hfxPtrHX4D91i1IaXJ%2FPKl%2BN8%2B6F%2FZ6KyE%2F0%3D",
    "dealRating": 10.0,
    "genres": [
     "RPG",

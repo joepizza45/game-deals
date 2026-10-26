@@ -717,5 +717,35 @@
   "Casual",
   "Indie",
   "Strategy"
+ ],
+ "steam:1341620": [
+  "Adventure",
+  "Indie"
+ ],
+ "title:ancient evil": [
+  "Adventure",
+  "Indie"
+ ],
+ "steam:1163600": [
+  "RPG"
+ ],
+ "title:omega labyrinth life deluxe edition": [
+  "RPG"
+ ],
+ "steam:1368130": [
+  "Casual",
+  "Simulation",
+  "Strategy"
+ ],
+ "title:park beyond complete edition": [
+  "Casual",
+  "Simulation",
+  "Strategy"
+ ],
+ "steam:2328310": [
+  "Action"
+ ],
+ "title:custom mech wars ultimate edition": [
+  "Action"
  ]
 }
