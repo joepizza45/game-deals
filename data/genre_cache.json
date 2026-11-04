@@ -1242,5 +1242,121 @@
   "Indie",
   "Racing",
   "Sports"
+ ],
+ "steam:2909400": [
+  "Action",
+  "Adventure",
+  "RPG"
+ ],
+ "steam:418460": [
+  "Action",
+  "Massively Multiplayer",
+  "Simulation",
+  "Strategy"
+ ],
+ "steam:257510": [
+  "Action",
+  "Adventure",
+  "Indie"
+ ],
+ "steam:370870": [
+  "Indie",
+  "Strategy"
+ ],
+ "title:dark future blood red states": [
+  "Indie",
+  "Strategy"
+ ],
+ "steam:1110050": [
+  "Adventure",
+  "Casual",
+  "Indie"
+ ],
+ "steam:1608700": [
+  "Action",
+  "Adventure"
+ ],
+ "steam:464060": [
+  "Action",
+  "Indie"
+ ],
+ "steam:820520": [
+  "Action",
+  "Indie",
+  "Strategy"
+ ],
+ "steam:473690": [
+  "Action",
+  "Adventure",
+  "Indie"
+ ],
+ "steam:1445790": [
+  "Action",
+  "Casual",
+  "Indie",
+  "Racing"
+ ],
+ "steam:307670": [
+  "Adventure",
+  "Indie",
+  "RPG",
+  "Strategy"
+ ],
+ "steam:407810": [
+  "Action",
+  "Adventure"
+ ],
+ "steam:1586880": [
+  "Casual",
+  "Indie",
+  "RPG"
+ ],
+ "steam:219150": [
+  "Action",
+  "Indie"
+ ],
+ "steam:559100": [
+  "Action",
+  "RPG",
+  "Strategy"
+ ],
+ "steam:233130": [
+  "Action",
+  "Adventure"
+ ],
+ "steam:709150": [
+  "Action",
+  "Indie"
+ ],
+ "title:everspace encounters": [
+  "Action",
+  "Indie"
+ ],
+ "steam:894020": [
+  "Action",
+  "Adventure",
+  "Indie",
+  "RPG"
+ ],
+ "steam:683320": [
+  "Adventure",
+  "Indie"
+ ],
+ "steam:793460": [
+  "Indie",
+  "Simulation",
+  "Strategy"
+ ],
+ "steam:1082180": [
+  "Action",
+  "Racing",
+  "RPG",
+  "Simulation",
+  "Sports"
+ ],
+ "steam:91200": [
+  "Action",
+  "Indie",
+  "Strategy"
  ]
 }

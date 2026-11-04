@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 03:14 UTC",
+ "updated": "2026-11-04 03:54 UTC",
  "free": [
   {
    "id": "gp-3842",
@@ -279,22 +279,6 @@
    "genre": "Casual"
   },
   {
-   "id": "gp-3771",
-   "title": "Liminal Space Holiday",
-   "worth": "$3.00",
-   "image": "https://www.gamerpower.com/offers/1b/6aa2ad0a69420.jpg",
-   "fallback": "https://www.gamerpower.com/offers/1/6aa2ad0a69420.jpg",
-   "url": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway",
-   "platforms": "PC, Itch.io, DRM-Free",
-   "ends": "2026-10-31",
-   "description": "Enjoy a Liminal Space Holiday! Score Liminal Space Holiday for free via Itch.io! Liminal Space Holiday is a retro nostalgic adventure game with 3d graphics.",
-   "genres": [
-    "Adventure",
-    "Indie"
-   ],
-   "genre": "Adventure"
-  },
-  {
    "id": "gp-3324",
    "title": "Battle Ram",
    "worth": "$29.99",
@@ -327,24 +311,6 @@
     "Casual"
    ],
    "genre": "Action"
-  },
-  {
-   "id": "gp-3313",
-   "title": "Wordle",
-   "worth": "$29.99",
-   "image": "https://www.gamerpower.com/offers/1b/68e15e986da99.jpg",
-   "fallback": "https://www.gamerpower.com/offers/1/68e15e986da99.jpg",
-   "url": "https://www.gamerpower.com/open/wordle-pc-giveaway",
-   "platforms": "PC, DRM-Free",
-   "ends": "",
-   "description": "Dreaming about Wordle? What a coincidence, it’s on IndieGala for free! Download it now and make your dreams come true.",
-   "genres": [
-    "Casual",
-    "Indie",
-    "Simulation",
-    "Sports"
-   ],
-   "genre": "Simulation"
   },
   {
    "id": "gp-3716",
@@ -725,46 +691,6 @@
    "genre": "Action"
   },
   {
-   "id": "cs-10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D",
-   "title": "Back 4 Blood: Deluxe Edition",
-   "price": 7.2,
-   "normal": 89.99,
-   "savings": 92,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/back-4-blood-deluxe-edition/cover-180-267524.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/back-4-blood-deluxe-edition/cover-180-267524.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D",
-   "title": "Back 4 Blood: Ultimate Edition",
-   "price": 8.0,
-   "normal": 99.99,
-   "savings": 92,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/back-4-blood-ultimate-edition/cover-180-91231d.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/back-4-blood-ultimate-edition/cover-180-91231d.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
    "id": "cs-tZtWDm4EV8cRgKxuSlCxLJ3cIGJp2rdidQQA0CozlOE%3D",
    "title": "Middle-earth: The Shadow Bundle",
    "price": 7.49,
@@ -806,49 +732,6 @@
    "genre": "Action"
   },
   {
-   "id": "cs-Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D",
-   "title": "The Quarry Deluxe Edition",
-   "price": 6.3,
-   "normal": 69.99,
-   "savings": 91,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Adventure"
-   ],
-   "genre": "Adventure"
-  },
-  {
-   "id": "cs-1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D",
-   "title": "The Incredible Adventures of Van Helsing Anthology",
-   "price": 6.89,
-   "normal": 74.99,
-   "savings": 91,
-   "store": "WinGameStore",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
-   "rating": 79,
-   "ratingText": "Mostly Positive",
-   "metacritic": 0,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/75825/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/75825/capsule_231x87.jpg?t=1705948029",
-   "url": "https://www.cheapshark.com/redirect?dealID=1F%2Fs0kTRNaj6kR1b%2Fc7nUJHql%2FiZ3IW1pWHnXEOwVX4%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Indie",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
    "id": "cs-pOSFvcoR2JunSDMzQCTwsDx6qSuqb0HeAaPmD9lE6a8%3D",
    "title": "Tennis World Tour Legends Edition",
    "price": 7.0,
@@ -887,47 +770,6 @@
     "RPG"
    ],
    "genre": "RPG"
-  },
-  {
-   "id": "cs-LiB7Lo%2BQfLlUmgHQmoLdTgjO7zxC6fA4vDs0%2Fmz84EU%3D",
-   "title": "One Punch Man: A Hero Nobody Knows Deluxe Edition",
-   "price": 7.99,
-   "normal": 79.99,
-   "savings": 90,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=LiB7Lo%2BQfLlUmgHQmoLdTgjO7zxC6fA4vDs0%2Fmz84EU%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-K0ERfdSZk1IoHe7BB0M6%2Fok%2F7CkBiYEeJBGFF19%2F%2Bw0%3D",
-   "title": "ONE PIECE World Seeker Deluxe Edition",
-   "price": 8.99,
-   "normal": 89.99,
-   "savings": 90,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=K0ERfdSZk1IoHe7BB0M6%2Fok%2F7CkBiYEeJBGFF19%2F%2Bw0%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
   },
   {
    "id": "cs-y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
@@ -973,26 +815,6 @@
    "genre": "Action"
   },
   {
-   "id": "cs-UO0ONGwa5KCxt1CFWSRnwkGg4ecKpb8q3fgX2xZ6OgM%3D",
-   "title": "ONE PIECE BURNING BLOOD GOLD EDITION",
-   "price": 8.99,
-   "normal": 74.99,
-   "savings": 88,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=UO0ONGwa5KCxt1CFWSRnwkGg4ecKpb8q3fgX2xZ6OgM%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
    "id": "cs-lx1Ldqb2ETEm0PJHIwoF8aVhlAvtMNpyHN%2B3M64aUek%3D",
    "title": "The LEGO Games Bundle",
    "price": 12.99,
@@ -1011,47 +833,6 @@
     "Other"
    ],
    "genre": "Other"
-  },
-  {
-   "id": "cs-Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D",
-   "title": "Darksiders Blades and Whip Franchise Pack",
-   "price": 11.99,
-   "normal": 79.99,
-   "savings": 85,
-   "store": "GOG",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Other"
-   ],
-   "genre": "Other"
-  },
-  {
-   "id": "cs-kl65WVSLosYxifQES9cXLWEXguzo5coHmDLtiV2xt1Y%3D",
-   "title": "Sniper Elite 5 Deluxe Edition",
-   "price": 12.8,
-   "normal": 79.99,
-   "savings": 84,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/sniper-elite-5-deluxe-edition/cover-180-dd9288.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/sniper-elite-5-deluxe-edition/cover-180-dd9288.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=kl65WVSLosYxifQES9cXLWEXguzo5coHmDLtiV2xt1Y%3D",
-   "dealRating": 10.0,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
   },
   {
    "id": "cs-TtQ7e%2FsaPwMa4ukJZERlwijo6Spazr3mVVm0J5V4%2F10%3D",
@@ -1104,7 +885,7 @@
    "savings": 42,
    "store": "GreenManGaming",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 69,
+   "rating": 68,
    "ratingText": "Mixed",
    "metacritic": 0,
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2347080/header.jpg",
@@ -1125,7 +906,7 @@
    "savings": 37,
    "store": "GreenManGaming",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 72,
+   "rating": 74,
    "ratingText": "Mostly Positive",
    "metacritic": 0,
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2482760/header.jpg",
@@ -1136,6 +917,128 @@
     "Simulation"
    ],
    "genre": "Simulation"
+  },
+  {
+   "id": "cs-10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D",
+   "title": "Back 4 Blood: Deluxe Edition",
+   "price": 7.2,
+   "normal": 89.99,
+   "savings": 92,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/back-4-blood-deluxe-edition/cover-180-267524.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/back-4-blood-deluxe-edition/cover-180-267524.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=10ePCWt1U8ed1%2FKOrQRMAK9yLfmzbvruAWpvt0zHxEU%3D",
+   "dealRating": 9.9,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D",
+   "title": "Back 4 Blood: Ultimate Edition",
+   "price": 8.0,
+   "normal": 99.99,
+   "savings": 92,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/back-4-blood-ultimate-edition/cover-180-91231d.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/back-4-blood-ultimate-edition/cover-180-91231d.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=us%2F3P6n9Z4fN16CkFinUTYMnruUmCeF%2BTdb4pWeAHB0%3D",
+   "dealRating": 9.9,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D",
+   "title": "The Quarry Deluxe Edition",
+   "price": 6.3,
+   "normal": 69.99,
+   "savings": 91,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=Kb%2BnKWG5d0q31D7pg5D0qPXKbHSfb210HrYKC%2FYe%2Bjw%3D",
+   "dealRating": 9.9,
+   "genres": [
+    "Adventure"
+   ],
+   "genre": "Adventure"
+  },
+  {
+   "id": "cs-Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D",
+   "title": "Darksiders Blades and Whip Franchise Pack",
+   "price": 11.99,
+   "normal": 79.99,
+   "savings": 85,
+   "store": "GOG",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=Q%2F2XxAVPB24eV6uqIUJrl4aKibsgBwa71W9KgOBZJMc%3D",
+   "dealRating": 9.9,
+   "genres": [
+    "Other"
+   ],
+   "genre": "Other"
+  },
+  {
+   "id": "cs-kl65WVSLosYxifQES9cXLWEXguzo5coHmDLtiV2xt1Y%3D",
+   "title": "Sniper Elite 5 Deluxe Edition",
+   "price": 12.8,
+   "normal": 79.99,
+   "savings": 84,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/sniper-elite-5-deluxe-edition/cover-180-dd9288.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/sniper-elite-5-deluxe-edition/cover-180-dd9288.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=kl65WVSLosYxifQES9cXLWEXguzo5coHmDLtiV2xt1Y%3D",
+   "dealRating": 9.9,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
+   "title": "Stories Untold",
+   "price": 0.99,
+   "normal": 9.99,
+   "savings": 90,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 85,
+   "ratingText": "Very Positive",
+   "metacritic": 81,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1793035114",
+   "url": "https://www.cheapshark.com/redirect?dealID=U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
+   "dealRating": 9.8,
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "genre": "Adventure"
   },
   {
    "id": "cs-6iGPP7EfmBdtQQpIE52uKCll0U7fjTO6P2XR%2BNfD8A4%3D",
@@ -1151,7 +1054,7 @@
    "image": "https://cdn.humblebundle.com/misc/files/hashed/8046e3e4a9d6e34dcc012dc79ddcfd1aa84909f1.jpg",
    "fallback": "https://cdn.humblebundle.com/misc/files/hashed/8046e3e4a9d6e34dcc012dc79ddcfd1aa84909f1.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=6iGPP7EfmBdtQQpIE52uKCll0U7fjTO6P2XR%2BNfD8A4%3D",
-   "dealRating": 9.9,
+   "dealRating": 9.8,
    "genres": [
     "Action"
    ],
@@ -1171,11 +1074,56 @@
    "image": "https://images.gog-statics.com/8480718b9eda57e44a6193fb92954b9195b8b7032458a96fb6a42f183ab089ee_product_tile_117h.webp",
    "fallback": "https://images.gog-statics.com/8480718b9eda57e44a6193fb92954b9195b8b7032458a96fb6a42f183ab089ee_product_tile_117h.webp",
    "url": "https://www.cheapshark.com/redirect?dealID=LFnZANQDb4O%2Bdar7TdwK8h57Y0SxRc8WxfteFYBNkME%3D",
-   "dealRating": 9.9,
+   "dealRating": 9.8,
    "genres": [
     "Other"
    ],
    "genre": "Other"
+  },
+  {
+   "id": "cs-Hsa3QMMXZfDyEpyCsYfeJPu%2BBH1jSuGKdm3RLERI9sA%3D",
+   "title": "Rising Storm 2: Vietnam",
+   "price": 2.49,
+   "normal": 24.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 89,
+   "ratingText": "Very Positive",
+   "metacritic": 81,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418460/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418460/capsule_231x87.jpg?t=1789745392",
+   "url": "https://www.cheapshark.com/redirect?dealID=Hsa3QMMXZfDyEpyCsYfeJPu%2BBH1jSuGKdm3RLERI9sA%3D",
+   "dealRating": 9.7,
+   "genres": [
+    "Action",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
+  {
+   "id": "cs-Q%2FG36SByFK5fUA9fKhyVMEJr%2B0XuKuvs%2B7hBNciv%2Fmg%3D",
+   "title": "FINAL FANTASY VII REBIRTH",
+   "price": 7.49,
+   "normal": 49.99,
+   "savings": 85,
+   "store": "Epic Games Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/24.png",
+   "rating": 78,
+   "ratingText": "Mostly Positive",
+   "metacritic": 90,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1789446799",
+   "url": "https://www.cheapshark.com/redirect?dealID=Q%2FG36SByFK5fUA9fKhyVMEJr%2B0XuKuvs%2B7hBNciv%2Fmg%3D",
+   "dealRating": 9.7,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "genre": "RPG"
   },
   {
    "id": "cs-n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
@@ -1191,12 +1139,33 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696",
    "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
-   "dealRating": 9.8,
+   "dealRating": 9.6,
    "genres": [
     "Indie",
     "Strategy"
    ],
    "genre": "Strategy"
+  },
+  {
+   "id": "cs-pbrlr8m5EeYKtmmHkAXWW8pGWkbCCXqLmLSZSmJ3pq0%3D",
+   "title": "Everspace",
+   "price": 1.99,
+   "normal": 19.99,
+   "savings": 90,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 77,
+   "ratingText": "Mostly Positive",
+   "metacritic": 79,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303",
+   "url": "https://www.cheapshark.com/redirect?dealID=pbrlr8m5EeYKtmmHkAXWW8pGWkbCCXqLmLSZSmJ3pq0%3D",
+   "dealRating": 9.6,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-yiJ%2B%2BQm1oghJrTjJJ7BUKdpTlOrbBKCkOYw67UHarPE%3D",
@@ -1212,54 +1181,12 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1793633192",
    "url": "https://www.cheapshark.com/redirect?dealID=yiJ%2B%2BQm1oghJrTjJJ7BUKdpTlOrbBKCkOYw67UHarPE%3D",
-   "dealRating": 9.8,
+   "dealRating": 9.6,
    "genres": [
     "Simulation",
     "Strategy"
    ],
    "genre": "Strategy"
-  },
-  {
-   "id": "cs-7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D",
-   "title": "CODE VEIN Deluxe Edition",
-   "price": 11.99,
-   "normal": 79.99,
-   "savings": 85,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/code-vein-deluxe-edition/cover-180-26ad0a.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/code-vein-deluxe-edition/cover-180-26ad0a.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=7Kx5YWKRZMBLWExrOHDq0%2Fwaw%2FDWzTx5oDM2w%2FVQqYs%3D",
-   "dealRating": 9.8,
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-3xuqDdVoDPEoqZ%2FcmzxZheAc20IvNYDI7I754NxHqYU%3D",
-   "title": "Ni no Kuni II: Revenant Kingdom - The Prince's Edition",
-   "price": 11.99,
-   "normal": 79.98,
-   "savings": 85,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/ni-no-kunitm-ii-revenant-kingdom-the-princes-edition/cover-180-b6d878.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=3xuqDdVoDPEoqZ%2FcmzxZheAc20IvNYDI7I754NxHqYU%3D",
-   "dealRating": 9.8,
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
   },
   {
    "id": "cs-9SmMh7Ht%2FEZvHMlMgrqRnQeGZCeIgThhOqSBjK0J6Xs%3D",
@@ -1275,7 +1202,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282070/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282070/2d8bb6908a236a5b129a2445dcc1cab37d0f7a47/capsule_231x87.jpg?t=1793632890",
    "url": "https://www.cheapshark.com/redirect?dealID=9SmMh7Ht%2FEZvHMlMgrqRnQeGZCeIgThhOqSBjK0J6Xs%3D",
-   "dealRating": 9.7,
+   "dealRating": 9.6,
    "genres": [
     "Adventure",
     "Indie",
@@ -1297,56 +1224,97 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_231x87.jpg?t=1732283123",
    "url": "https://www.cheapshark.com/redirect?dealID=2UqLyfZAFXpy7n5Uf9v2xwgCFKdnEQqVLvt6%2FkOSuYg%3D",
-   "dealRating": 9.7,
+   "dealRating": 9.6,
    "genres": [
     "Action"
    ],
    "genre": "Action"
   },
   {
-   "id": "cs-cJtg1TRIgWSDUyTBIDlpw8BR%2FlDgvnBvUeOKOYIVfIw%3D",
-   "title": "Torchlight II",
-   "price": 3.2,
-   "normal": 19.99,
-   "savings": 84,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 92,
-   "ratingText": "Very Positive",
-   "metacritic": 88,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg?t=1792118316",
-   "url": "https://www.cheapshark.com/redirect?dealID=cJtg1TRIgWSDUyTBIDlpw8BR%2FlDgvnBvUeOKOYIVfIw%3D",
-   "dealRating": 9.7,
+   "id": "cs-TAj5QYM2YPF3JUhSjBjB4t%2B6Ccib0DTL7B5rkQ8tEsA%3D",
+   "title": "Dark Future: Blood Red States",
+   "price": 2.49,
+   "normal": 24.99,
+   "savings": 90,
+   "store": "WinGameStore",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
+   "rating": 69,
+   "ratingText": "Mixed",
+   "metacritic": 78,
+   "image": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=TAj5QYM2YPF3JUhSjBjB4t%2B6Ccib0DTL7B5rkQ8tEsA%3D",
+   "dealRating": 9.6,
    "genres": [
-    "Action",
-    "Adventure",
     "Indie",
-    "RPG"
+    "Strategy"
    ],
-   "genre": "RPG"
+   "genre": "Strategy"
   },
   {
-   "id": "cs-AEdBPD0pg%2BNOwukQ8C7kAV9CBd9qtoik0lh3M6cV2qE%3D",
-   "title": "Warhammer: Chaosbane",
-   "price": 1.5,
+   "id": "cs-ChqYhrDPEBjLMuoKuMuxtiRBPLG359pG0acXde2993E%3D",
+   "title": "The Talos Principle",
+   "price": 4.49,
    "normal": 29.99,
-   "savings": 95,
-   "store": "DreamGame",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/34.png",
-   "rating": 61,
-   "ratingText": "Mixed",
-   "metacritic": 69,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774241/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774241/capsule_231x87.jpg?t=1778175102",
-   "url": "https://www.cheapshark.com/redirect?dealID=AEdBPD0pg%2BNOwukQ8C7kAV9CBd9qtoik0lh3M6cV2qE%3D",
+   "savings": 85,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 95,
+   "ratingText": "Overwhelmingly Positive",
+   "metacritic": 85,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257510/capsule_231x87.jpg?t=1744327639",
+   "url": "https://www.cheapshark.com/redirect?dealID=ChqYhrDPEBjLMuoKuMuxtiRBPLG359pG0acXde2993E%3D",
    "dealRating": 9.6,
    "genres": [
     "Action",
     "Adventure",
-    "RPG"
+    "Indie"
    ],
-   "genre": "RPG"
+   "genre": "Action"
+  },
+  {
+   "id": "cs-Z%2BPdiYAIyDqSR%2FxYgSY7sxVWCsyE%2FB8BxEKf8mocLCM%3D",
+   "title": "Shadow Warrior 2",
+   "price": 2.99,
+   "normal": 29.99,
+   "savings": 90,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 87,
+   "ratingText": "Very Positive",
+   "metacritic": 78,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324800/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324800/capsule_231x87.jpg?t=1728689727",
+   "url": "https://www.cheapshark.com/redirect?dealID=Z%2BPdiYAIyDqSR%2FxYgSY7sxVWCsyE%2FB8BxEKf8mocLCM%3D",
+   "dealRating": 9.5,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-wS%2FcNu2wl3Jj76ObWWiNllDHX30u7%2Bwea8dwz0AwYDE%3D",
+   "title": "Evans Remains",
+   "price": 0.69,
+   "normal": 6.99,
+   "savings": 90,
+   "store": "IndieGala",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
+   "rating": 89,
+   "ratingText": "Very Positive",
+   "metacritic": 75,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1110050/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1110050/capsule_231x87.jpg?t=1750953380",
+   "url": "https://www.cheapshark.com/redirect?dealID=wS%2FcNu2wl3Jj76ObWWiNllDHX30u7%2Bwea8dwz0AwYDE%3D",
+   "dealRating": 9.5,
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "genre": "Adventure"
   },
   {
    "id": "cs-uuoILTdto7Uqw%2FMRCPx49MwIqpEH7RXOn2FKlIdmtDg%3D",
@@ -1362,7 +1330,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052",
    "url": "https://www.cheapshark.com/redirect?dealID=uuoILTdto7Uqw%2FMRCPx49MwIqpEH7RXOn2FKlIdmtDg%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.5,
    "genres": [
     "Adventure",
     "Indie",
@@ -1384,12 +1352,56 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094",
    "url": "https://www.cheapshark.com/redirect?dealID=jw3%2FPWq5mTqvzmI0eR%2Fdoyvhh7EPLdjweccBGkTxYqY%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.5,
    "genres": [
     "Adventure",
     "Indie"
    ],
    "genre": "Adventure"
+  },
+  {
+   "id": "cs-cJtg1TRIgWSDUyTBIDlpw8BR%2FlDgvnBvUeOKOYIVfIw%3D",
+   "title": "Torchlight II",
+   "price": 3.2,
+   "normal": 19.99,
+   "savings": 84,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 92,
+   "ratingText": "Very Positive",
+   "metacritic": 88,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg?t=1792118316",
+   "url": "https://www.cheapshark.com/redirect?dealID=cJtg1TRIgWSDUyTBIDlpw8BR%2FlDgvnBvUeOKOYIVfIw%3D",
+   "dealRating": 9.5,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-B9zQ6i8mJ4UX%2BnVjZziLAtdir%2BEKMYW0SKnOEdO0a0M%3D",
+   "title": "Soundfall",
+   "price": 1.49,
+   "normal": 29.99,
+   "savings": 95,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 73,
+   "ratingText": "Mostly Positive",
+   "metacritic": 66,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608700/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1608700/capsule_231x87.jpg?t=1756143198",
+   "url": "https://www.cheapshark.com/redirect?dealID=B9zQ6i8mJ4UX%2BnVjZziLAtdir%2BEKMYW0SKnOEdO0a0M%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-QynqV9Jil2aK5kn3aCSGIGetSgD8Qzx3RcC1kfC9Rvo%3D",
@@ -1405,12 +1417,141 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1793106469",
    "url": "https://www.cheapshark.com/redirect?dealID=QynqV9Jil2aK5kn3aCSGIGetSgD8Qzx3RcC1kfC9Rvo%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.4,
    "genres": [
     "Adventure",
     "Indie"
    ],
    "genre": "Adventure"
+  },
+  {
+   "id": "cs-caMG50f%2BBbFErfPUHYo2lDyHqSfjHHe%2FdVDsscgXY8U%3D",
+   "title": "RUINER",
+   "price": 1.99,
+   "normal": 19.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 89,
+   "ratingText": "Very Positive",
+   "metacritic": 75,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/464060/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/464060/capsule_231x87.jpg?t=1789052609",
+   "url": "https://www.cheapshark.com/redirect?dealID=caMG50f%2BBbFErfPUHYo2lDyHqSfjHHe%2FdVDsscgXY8U%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-q7XH1ULuf8rNHe8a%2FHICc1MgsriqXgemd966zMpfm3Q%3D",
+   "title": "Deceive Inc.",
+   "price": 1.99,
+   "normal": 19.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 84,
+   "ratingText": "Very Positive",
+   "metacritic": 75,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/820520/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/820520/capsule_231x87.jpg?t=1789672974",
+   "url": "https://www.cheapshark.com/redirect?dealID=q7XH1ULuf8rNHe8a%2FHICc1MgsriqXgemd966zMpfm3Q%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
+  {
+   "id": "cs-TSMLyzzH7YNNmOttiagPNpFg%2FaPkxoEHy2R0fOkIdUg%3D",
+   "title": "RoboCop: Rogue City",
+   "price": 3.99,
+   "normal": 39.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 86,
+   "ratingText": "Very Positive",
+   "metacritic": 76,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302",
+   "url": "https://www.cheapshark.com/redirect?dealID=TSMLyzzH7YNNmOttiagPNpFg%2FaPkxoEHy2R0fOkIdUg%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-olMI1VlH%2FoY6cSul9YibmJW%2B453%2FfHxOZJxXnBTLb40%3D",
+   "title": "Absolver",
+   "price": 2.99,
+   "normal": 29.99,
+   "savings": 90,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 74,
+   "ratingText": "Mostly Positive",
+   "metacritic": 75,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/473690/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/473690/capsule_231x87.jpg?t=1728689155",
+   "url": "https://www.cheapshark.com/redirect?dealID=olMI1VlH%2FoY6cSul9YibmJW%2B453%2FfHxOZJxXnBTLb40%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-nxwK%2BocZq5PawCTZnykS1xJHnTzjt%2FnUxbjIxEjJEf4%3D",
+   "title": "Impulsion",
+   "price": 1.3,
+   "normal": 12.99,
+   "savings": 90,
+   "store": "GamersGate",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
+   "rating": 86,
+   "ratingText": "Very Positive",
+   "metacritic": 79,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971",
+   "url": "https://www.cheapshark.com/redirect?dealID=nxwK%2BocZq5PawCTZnykS1xJHnTzjt%2FnUxbjIxEjJEf4%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-BlVxrVeavhnmY1tbKXOrDvBQAQuSErIY4VZbeH1YMBM%3D",
+   "title": "Jotun: Valhalla Edition",
+   "price": 1.49,
+   "normal": 14.99,
+   "savings": 90,
+   "store": "Steam",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
+   "rating": 77,
+   "ratingText": "Mostly Positive",
+   "metacritic": 79,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/capsule_231x87.jpg?t=1752500989",
+   "url": "https://www.cheapshark.com/redirect?dealID=BlVxrVeavhnmY1tbKXOrDvBQAQuSErIY4VZbeH1YMBM%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D",
@@ -1426,7 +1567,7 @@
    "image": "https://images.greenmangaming.com/954b123f74ce43e6a39abdaee7d33a61/cbc991bb102c4ad2a819a17b06e1701c.jpg",
    "fallback": "https://images.greenmangaming.com/954b123f74ce43e6a39abdaee7d33a61/cbc991bb102c4ad2a819a17b06e1701c.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=4u5JTz2BV0r3SkfeMk4jCaTvbsrprAyTg4xglQbMC2Q%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.4,
    "genres": [
     "Action",
     "Adventure",
@@ -1448,7 +1589,7 @@
    "image": "https://images.greenmangaming.com/46007fba10c644f9a0e9a5592d693710/13bd0413ba074dd280e0451165f7e48e.jpg",
    "fallback": "https://images.greenmangaming.com/46007fba10c644f9a0e9a5592d693710/13bd0413ba074dd280e0451165f7e48e.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=0lF%2BFktIUm7kcxRmUBoLBcTOwImEZX34GBDiw6vGI8w%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.4,
    "genres": [
     "Action",
     "Adventure"
@@ -1469,7 +1610,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg?t=1765505119",
    "url": "https://www.cheapshark.com/redirect?dealID=jwdaiSvD5t2xWwSWXlsejGLf56BiKCLJ8ZouICVKDzY%3D",
-   "dealRating": 9.6,
+   "dealRating": 9.4,
    "genres": [
     "Adventure",
     "Indie",
@@ -1479,126 +1620,112 @@
    "genre": "RPG"
   },
   {
-   "id": "cs-YS1OanLVFDrmo3hfKBNpF%2BPEZB8JuuEBhrdPfVHUNLo%3D",
-   "title": "One Piece: Pirate Warriors 4 - Ultimate Edition",
-   "price": 14.39,
-   "normal": 89.99,
-   "savings": 84,
+   "id": "cs-nZUwZY%2FDlqsMWiZcUy%2BPbBdUW3%2BsqrUfHmAU9KWryDg%3D",
+   "title": "Make Way",
+   "price": 2.24,
+   "normal": 14.99,
+   "savings": 85,
    "store": "IndieGala",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/one-piece-pirate-warriors-4-ultimate-edition/cover-180-211f4c.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/one-piece-pirate-warriors-4-ultimate-edition/cover-180-211f4c.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=YS1OanLVFDrmo3hfKBNpF%2BPEZB8JuuEBhrdPfVHUNLo%3D",
-   "dealRating": 9.6,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-9kU9aLpxzU5%2FU%2BFA3zs4%2B%2BIS%2BOvwghSflxH%2FeIu4cYc%3D",
-   "title": "SOULCALIBUR VI Deluxe Edition",
-   "price": 14.39,
-   "normal": 89.99,
-   "savings": 84,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=9kU9aLpxzU5%2FU%2BFA3zs4%2B%2BIS%2BOvwghSflxH%2FeIu4cYc%3D",
-   "dealRating": 9.6,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-K5qC43j5W82Ye2Ii1%2BrUQ%2BalV5ktOEtmYa2va5DDsyU%3D",
-   "title": "Dragon Ball Fighter Z  FighterZ Edition",
-   "price": 14.39,
-   "normal": 89.99,
-   "savings": 84,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=K5qC43j5W82Ye2Ii1%2BrUQ%2BalV5ktOEtmYa2va5DDsyU%3D",
-   "dealRating": 9.6,
-   "genres": [
-    "Other"
-   ],
-   "genre": "Other"
-  },
-  {
-   "id": "cs-nxwK%2BocZq5PawCTZnykS1xJHnTzjt%2FnUxbjIxEjJEf4%3D",
-   "title": "Impulsion",
-   "price": 1.3,
-   "normal": 12.99,
-   "savings": 90,
-   "store": "GamersGate",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
-   "rating": 86,
+   "rating": 91,
    "ratingText": "Very Positive",
-   "metacritic": 79,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971",
-   "url": "https://www.cheapshark.com/redirect?dealID=nxwK%2BocZq5PawCTZnykS1xJHnTzjt%2FnUxbjIxEjJEf4%3D",
-   "dealRating": 9.5,
+   "metacritic": 83,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/ce67a56e968fc26fb8de1647458a025904d0e51b/capsule_231x87.jpg?t=1790865580",
+   "url": "https://www.cheapshark.com/redirect?dealID=nZUwZY%2FDlqsMWiZcUy%2BPbBdUW3%2BsqrUfHmAU9KWryDg%3D",
+   "dealRating": 9.4,
    "genres": [
     "Action",
-    "Indie"
+    "Casual",
+    "Indie",
+    "Racing"
+   ],
+   "genre": "Racing"
+  },
+  {
+   "id": "cs-Cq2W0ecormrYsbGDN4r6Bl%2BRAubgkI52W%2FniF1jHPNU%3D",
+   "title": "Dishonored Complete Collection",
+   "price": 15.99,
+   "normal": 79.99,
+   "savings": 80,
+   "store": "GOG",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
+   "rating": 92,
+   "ratingText": "Very Positive",
+   "metacritic": 0,
+   "image": "https://images.greenmangaming.com/ac189c727a6841728b830a6cb60bc9e1/6d1f9fd5e59943f69f879bcbd27b0041.jpg",
+   "fallback": "https://images.greenmangaming.com/ac189c727a6841728b830a6cb60bc9e1/6d1f9fd5e59943f69f879bcbd27b0041.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=Cq2W0ecormrYsbGDN4r6Bl%2BRAubgkI52W%2FniF1jHPNU%3D",
+   "dealRating": 9.4,
+   "genres": [
+    "Action",
+    "Adventure"
    ],
    "genre": "Action"
   },
   {
-   "id": "cs-BlVxrVeavhnmY1tbKXOrDvBQAQuSErIY4VZbeH1YMBM%3D",
-   "title": "Jotun: Valhalla Edition",
-   "price": 1.49,
-   "normal": 14.99,
-   "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 77,
-   "ratingText": "Mostly Positive",
-   "metacritic": 79,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/capsule_231x87.jpg?t=1752500989",
-   "url": "https://www.cheapshark.com/redirect?dealID=BlVxrVeavhnmY1tbKXOrDvBQAQuSErIY4VZbeH1YMBM%3D",
-   "dealRating": 9.5,
+   "id": "cs-8TiJ2So73jUx0juEDidW55lPEDStwrKjvxPnsuUyPnk%3D",
+   "title": "Warhammer: Chaosbane",
+   "price": 1.5,
+   "normal": 29.99,
+   "savings": 95,
+   "store": "GamersGate",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
+   "rating": 61,
+   "ratingText": "Mixed",
+   "metacritic": 69,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774241/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774241/capsule_231x87.jpg?t=1778175102",
+   "url": "https://www.cheapshark.com/redirect?dealID=8TiJ2So73jUx0juEDidW55lPEDStwrKjvxPnsuUyPnk%3D",
+   "dealRating": 9.3,
    "genres": [
     "Action",
     "Adventure",
-    "Indie"
+    "RPG"
    ],
-   "genre": "Action"
+   "genre": "RPG"
   },
   {
-   "id": "cs-cmJeDS%2FYRfcKqU0nGBqIp0eYF5YrqMxmfQstbG36y5g%3D",
-   "title": "Everspace",
+   "id": "cs-lfQIPVazv8jQ2d0%2B2OS7Mb6WDP7Adl7M9Qudwtizbz8%3D",
+   "title": "Hard West",
    "price": 1.99,
    "normal": 19.99,
    "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 77,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 73,
    "ratingText": "Mostly Positive",
-   "metacritic": 79,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303",
-   "url": "https://www.cheapshark.com/redirect?dealID=cmJeDS%2FYRfcKqU0nGBqIp0eYF5YrqMxmfQstbG36y5g%3D",
-   "dealRating": 9.5,
+   "metacritic": 73,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307670/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307670/capsule_231x87.jpg?t=1710326919",
+   "url": "https://www.cheapshark.com/redirect?dealID=lfQIPVazv8jQ2d0%2B2OS7Mb6WDP7Adl7M9Qudwtizbz8%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Strategy"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-pLfN2iyADnup438oSAqB10dPS6MuPvANgYiZfMfzXjI%3D",
+   "title": "Hard Reset Redux",
+   "price": 1.99,
+   "normal": 19.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 81,
+   "ratingText": "Very Positive",
+   "metacritic": 73,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407810/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407810/capsule_231x87.jpg?t=1710326784",
+   "url": "https://www.cheapshark.com/redirect?dealID=pLfN2iyADnup438oSAqB10dPS6MuPvANgYiZfMfzXjI%3D",
+   "dealRating": 9.3,
    "genres": [
     "Action",
-    "Indie"
+    "Adventure"
    ],
    "genre": "Action"
   },
@@ -1616,157 +1743,13 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407",
    "url": "https://www.cheapshark.com/redirect?dealID=vJfBss8ZdrlBfJvDdTHWoZkYHcE9rJD1g7fzP1tiy1o%3D",
-   "dealRating": 9.5,
+   "dealRating": 9.3,
    "genres": [
     "Racing",
     "Simulation",
     "Sports"
    ],
    "genre": "Simulation"
-  },
-  {
-   "id": "cs-U9NbKz2Xwv%2FRiVIuG8lF%2BLrtSRpVPqkaoLL0uamoKWg%3D",
-   "title": "Borderlands 3 Super Deluxe Edition (EPIC)",
-   "price": 10.8,
-   "normal": 79.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-epic/cover-180-de82df.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-epic/cover-180-de82df.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=U9NbKz2Xwv%2FRiVIuG8lF%2BLrtSRpVPqkaoLL0uamoKWg%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-TEntN3h%2FysXDBSIP1upOImxNL5ivn9v79DXhn20N16k%3D",
-   "title": "Borderlands 3 Super Deluxe Edition",
-   "price": 10.8,
-   "normal": 79.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-steam/cover-180-2209f5.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-steam/cover-180-2209f5.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=TEntN3h%2FysXDBSIP1upOImxNL5ivn9v79DXhn20N16k%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D",
-   "title": "Watch_Dogs 2 Gold Edition",
-   "price": 10.8,
-   "normal": 79.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/b862c5cae355443f879809fc20eec404/e1d34e22dd2e4d3196a8e0c77b07c778.jpg",
-   "fallback": "https://images.greenmangaming.com/b862c5cae355443f879809fc20eec404/e1d34e22dd2e4d3196a8e0c77b07c778.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-Cq2W0ecormrYsbGDN4r6Bl%2BRAubgkI52W%2FniF1jHPNU%3D",
-   "title": "Dishonored Complete Collection",
-   "price": 15.99,
-   "normal": 79.99,
-   "savings": 80,
-   "store": "GOG",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
-   "rating": 92,
-   "ratingText": "Very Positive",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/ac189c727a6841728b830a6cb60bc9e1/6d1f9fd5e59943f69f879bcbd27b0041.jpg",
-   "fallback": "https://images.greenmangaming.com/ac189c727a6841728b830a6cb60bc9e1/6d1f9fd5e59943f69f879bcbd27b0041.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Cq2W0ecormrYsbGDN4r6Bl%2BRAubgkI52W%2FniF1jHPNU%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-UgYbZfH00wFDvUZF8Nk1uNP7npZA2HEibK%2BCD%2FGadgk%3D",
-   "title": "Disco Elysium - The Final Cut",
-   "price": 7.99,
-   "normal": 39.99,
-   "savings": 80,
-   "store": "Fanatical",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/14.png",
-   "rating": 92,
-   "ratingText": "Very Positive",
-   "metacritic": 97,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406",
-   "url": "https://www.cheapshark.com/redirect?dealID=UgYbZfH00wFDvUZF8Nk1uNP7npZA2HEibK%2BCD%2FGadgk%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-pz2e9HMlfSSMWQk42%2FZRXQSzekXCqnkfoKsb0cQmoys%3D",
-   "title": "Golf With Your Friends - Complete the Set",
-   "price": 20.65,
-   "normal": 82.65,
-   "savings": 75,
-   "store": "GOG",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.gog-statics.com/7be5d53a256d959fcddb1dfe7e3b9565a3f9b0702255fa292361eec862b22364_product_tile_117h.webp",
-   "fallback": "https://images.gog-statics.com/7be5d53a256d959fcddb1dfe7e3b9565a3f9b0702255fa292361eec862b22364_product_tile_117h.webp",
-   "url": "https://www.cheapshark.com/redirect?dealID=pz2e9HMlfSSMWQk42%2FZRXQSzekXCqnkfoKsb0cQmoys%3D",
-   "dealRating": 9.5,
-   "genres": [
-    "Other"
-   ],
-   "genre": "Other"
-  },
-  {
-   "id": "cs-anrMV5XUEga1%2BYno3N%2BbB17FtY%2F301KGM1euKCOpe6Y%3D",
-   "title": "RiMS Racing",
-   "price": 2.5,
-   "normal": 49.99,
-   "savings": 95,
-   "store": "GamersGate",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
-   "rating": 64,
-   "ratingText": "Mixed",
-   "metacritic": 69,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/capsule_231x87.jpg?t=1759396011",
-   "url": "https://www.cheapshark.com/redirect?dealID=anrMV5XUEga1%2BYno3N%2BbB17FtY%2F301KGM1euKCOpe6Y%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Racing"
-   ],
-   "genre": "Racing"
   },
   {
    "id": "cs-vS1xuwVUUlwbII1yuCEqdOCxRHNlV2%2F6fnhSikmNFGA%3D",
@@ -1782,12 +1765,55 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452",
    "url": "https://www.cheapshark.com/redirect?dealID=vS1xuwVUUlwbII1yuCEqdOCxRHNlV2%2F6fnhSikmNFGA%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Action",
     "RPG"
    ],
    "genre": "RPG"
+  },
+  {
+   "id": "cs-wrOWSsxGyW37Mdc8cuCxZSc8yXoKMo1AqjT8T6VJc%2Bc%3D",
+   "title": "Phantom Doctrine",
+   "price": 3.99,
+   "normal": 39.99,
+   "savings": 90,
+   "store": "Humble Store",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
+   "rating": 74,
+   "ratingText": "Mostly Positive",
+   "metacritic": 74,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/559100/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/559100/capsule_231x87.jpg?t=1728639836",
+   "url": "https://www.cheapshark.com/redirect?dealID=wrOWSsxGyW37Mdc8cuCxZSc8yXoKMo1AqjT8T6VJc%2Bc%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Action",
+    "RPG",
+    "Strategy"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-HsodQ8WAhKW2%2BEKS443dUW9tn056a6l%2BW0k3AOc%2F%2BYo%3D",
+   "title": "Shadow Warrior",
+   "price": 2.99,
+   "normal": 29.99,
+   "savings": 90,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 93,
+   "ratingText": "Very Positive",
+   "metacritic": 73,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233130/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/233130/capsule_231x87.jpg?t=1710246206",
+   "url": "https://www.cheapshark.com/redirect?dealID=HsodQ8WAhKW2%2BEKS443dUW9tn056a6l%2BW0k3AOc%2F%2BYo%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-5m11BQuVIZQJx3yonejXssC2TRfyJuGMQ%2FSt%2BKLJ58M%3D",
@@ -1803,7 +1829,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412",
    "url": "https://www.cheapshark.com/redirect?dealID=5m11BQuVIZQJx3yonejXssC2TRfyJuGMQ%2FSt%2BKLJ58M%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Adventure",
     "Indie",
@@ -1826,96 +1852,13 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236730/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236730/capsule_231x87.jpg?t=1716457749",
    "url": "https://www.cheapshark.com/redirect?dealID=zV0mwERliwYMr3YWjc%2F6gKIJQdVqZGyH78u%2FBIUj2wk%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Action",
     "Indie",
     "Strategy"
    ],
    "genre": "Strategy"
-  },
-  {
-   "id": "cs-weBHgzZlIZ8SFmvA4F6%2BoQFsKJt2GHM%2BWu%2BewLkhP0Q%3D",
-   "title": "Mordheim: City of the Damned",
-   "price": 2.0,
-   "normal": 19.98,
-   "savings": 90,
-   "store": "DreamGame",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/34.png",
-   "rating": 71,
-   "ratingText": "Mostly Positive",
-   "metacritic": 74,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/276810/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/276810/capsule_231x87.jpg?t=1726153222",
-   "url": "https://www.cheapshark.com/redirect?dealID=weBHgzZlIZ8SFmvA4F6%2BoQFsKJt2GHM%2BWu%2BewLkhP0Q%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "RPG",
-    "Strategy"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-5ScRtXAgJdneu0lcLq5wsZgXR92N0HuETgbUOdUQKCE%3D",
-   "title": "Splasher",
-   "price": 1.5,
-   "normal": 14.99,
-   "savings": 90,
-   "store": "GamersGate",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
-   "rating": 94,
-   "ratingText": "Very Positive",
-   "metacritic": 79,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950",
-   "url": "https://www.cheapshark.com/redirect?dealID=5ScRtXAgJdneu0lcLq5wsZgXR92N0HuETgbUOdUQKCE%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Action",
-    "Indie"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-niq3hBlOProhhMGGwkYVV0SeoggCh0si25QwsPp2HMQ%3D",
-   "title": "Europa Universalis IV",
-   "price": 4.99,
-   "normal": 49.99,
-   "savings": 90,
-   "store": "GOG",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
-   "rating": 86,
-   "ratingText": "Very Positive",
-   "metacritic": 87,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960",
-   "url": "https://www.cheapshark.com/redirect?dealID=niq3hBlOProhhMGGwkYVV0SeoggCh0si25QwsPp2HMQ%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Simulation",
-    "Strategy"
-   ],
-   "genre": "Strategy"
-  },
-  {
-   "id": "cs-7xy5A9tNsHVw8JjckcBDRr7PL6MXHN4jBwRXQ9GX6Ps%3D",
-   "title": "Metro 2033 Redux",
-   "price": 1.99,
-   "normal": 19.99,
-   "savings": 90,
-   "store": "Fanatical",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/14.png",
-   "rating": 88,
-   "ratingText": "Very Positive",
-   "metacritic": 90,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167",
-   "url": "https://www.cheapshark.com/redirect?dealID=7xy5A9tNsHVw8JjckcBDRr7PL6MXHN4jBwRXQ9GX6Ps%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
   },
   {
    "id": "cs-2k1iHZIVamMaeIML72kmPdWGf4NQ8jot82VwCgAExQg%3D",
@@ -1931,7 +1874,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45760/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45760/capsule_231x87.jpg?t=1759109520",
    "url": "https://www.cheapshark.com/redirect?dealID=2k1iHZIVamMaeIML72kmPdWGf4NQ8jot82VwCgAExQg%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Action"
    ],
@@ -1951,11 +1894,74 @@
    "image": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-vi-anthology-steam/cover-180-ac032e.jpg",
    "fallback": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-vi-anthology-steam/cover-180-ac032e.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=D%2Fvo4iP2dqX6%2Fm%2FuR7UIZEClDzwKKtL4d2%2FOekOD8rA%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Strategy"
    ],
    "genre": "Strategy"
+  },
+  {
+   "id": "cs-U9NbKz2Xwv%2FRiVIuG8lF%2BLrtSRpVPqkaoLL0uamoKWg%3D",
+   "title": "Borderlands 3 Super Deluxe Edition (EPIC)",
+   "price": 10.8,
+   "normal": 79.99,
+   "savings": 86,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-epic/cover-180-de82df.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-epic/cover-180-de82df.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=U9NbKz2Xwv%2FRiVIuG8lF%2BLrtSRpVPqkaoLL0uamoKWg%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-TEntN3h%2FysXDBSIP1upOImxNL5ivn9v79DXhn20N16k%3D",
+   "title": "Borderlands 3 Super Deluxe Edition",
+   "price": 10.8,
+   "normal": 79.99,
+   "savings": 86,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-steam/cover-180-2209f5.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/borderlands-3-super-deluxe-edition-steam/cover-180-2209f5.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=TEntN3h%2FysXDBSIP1upOImxNL5ivn9v79DXhn20N16k%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D",
+   "title": "Watch_Dogs 2 Gold Edition",
+   "price": 10.8,
+   "normal": 79.99,
+   "savings": 86,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://images.greenmangaming.com/b862c5cae355443f879809fc20eec404/e1d34e22dd2e4d3196a8e0c77b07c778.jpg",
+   "fallback": "https://images.greenmangaming.com/b862c5cae355443f879809fc20eec404/e1d34e22dd2e4d3196a8e0c77b07c778.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=yWC3u%2F4NAUAHNPA%2FSt3cyl4oFeF9qgFlY%2Blb9aVZzC8%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D",
@@ -1971,7 +1977,7 @@
    "image": "https://images.greenmangaming.com/343728a3ccce4911b335aad397b6cae3/a3b2074aa80e4e81b525aa0ec4a3acdc.jpg",
    "fallback": "https://images.greenmangaming.com/343728a3ccce4911b335aad397b6cae3/a3b2074aa80e4e81b525aa0ec4a3acdc.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=vOuwU%2FhMPZN4mdwmHf6bhce%2Fme1p5slBPbAD2K%2BJ2E4%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Action",
     "Adventure"
@@ -1992,139 +1998,114 @@
    "image": "https://images.greenmangaming.com/f6af9f2dcf394f3baed307615e8e8434/9e90ef09574d4bd092fdd998007a444b.jpg",
    "fallback": "https://images.greenmangaming.com/f6af9f2dcf394f3baed307615e8e8434/9e90ef09574d4bd092fdd998007a444b.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=A0QUHtGGNO5NytSKMyCl7MJpCzNxW5tb88LR%2FAAkzEM%3D",
-   "dealRating": 9.4,
+   "dealRating": 9.3,
    "genres": [
     "Action"
    ],
    "genre": "Action"
   },
   {
-   "id": "cs-Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D",
-   "title": "Far Cry New Dawn Complete Bundle",
-   "price": 13.5,
-   "normal": 99.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/3fb6c037bbc443f294190401869d8253/a60ab0fa061041bda671b6b879657666.jpg",
-   "fallback": "https://images.greenmangaming.com/3fb6c037bbc443f294190401869d8253/a60ab0fa061041bda671b6b879657666.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D",
-   "dealRating": 9.4,
+   "id": "cs-OcqDxzLdTe0cSKgBjaA6ExOjTgkoWSgpCoOpTCXuTTc%3D",
+   "title": "Essays on Empathy",
+   "price": 1.95,
+   "normal": 12.99,
+   "savings": 85,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 79,
+   "ratingText": "Mostly Positive",
+   "metacritic": 80,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586880/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1586880/capsule_231x87.jpg?t=1728950994",
+   "url": "https://www.cheapshark.com/redirect?dealID=OcqDxzLdTe0cSKgBjaA6ExOjTgkoWSgpCoOpTCXuTTc%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-UgYbZfH00wFDvUZF8Nk1uNP7npZA2HEibK%2BCD%2FGadgk%3D",
+   "title": "Disco Elysium - The Final Cut",
+   "price": 7.99,
+   "normal": 39.99,
+   "savings": 80,
+   "store": "Fanatical",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/14.png",
+   "rating": 92,
+   "ratingText": "Very Positive",
+   "metacritic": 97,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406",
+   "url": "https://www.cheapshark.com/redirect?dealID=UgYbZfH00wFDvUZF8Nk1uNP7npZA2HEibK%2BCD%2FGadgk%3D",
+   "dealRating": 9.3,
+   "genres": [
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-pVxrhvXsMeQxM%2BHO8NXl%2FsFQ0S12%2BHnp61gFP7BAcuU%3D",
+   "title": "Hotline Miami",
+   "price": 1.99,
+   "normal": 9.99,
+   "savings": 80,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 96,
+   "ratingText": "Overwhelmingly Positive",
+   "metacritic": 85,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219150/capsule_231x87.jpg?t=1785434922",
+   "url": "https://www.cheapshark.com/redirect?dealID=pVxrhvXsMeQxM%2BHO8NXl%2FsFQ0S12%2BHnp61gFP7BAcuU%3D",
+   "dealRating": 9.3,
    "genres": [
     "Action",
-    "Adventure"
+    "Indie"
    ],
    "genre": "Action"
   },
   {
-   "id": "cs-QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D",
-   "title": "Assassins Creed Origins Gold Edition",
-   "price": 13.5,
-   "normal": 99.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg",
-   "fallback": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-VAskkkPiVdzD%2FknXN8eOSeZI6Hw8ATRBTo1vXcSBqLc%3D",
-   "title": "Captain Tsubasa: Rise of New Champions - Ultimate Edition",
-   "price": 14.39,
-   "normal": 79.99,
-   "savings": 82,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-ultimate-edition/cover-180-3e59d7.jpg",
-   "fallback": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-ultimate-edition/cover-180-3e59d7.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=VAskkkPiVdzD%2FknXN8eOSeZI6Hw8ATRBTo1vXcSBqLc%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Action",
-    "Casual",
-    "RPG",
-    "Sports"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-zF92ZX6e%2BGTJY23Hzp42mhl5ctHcsPYDVgby02hm7ik%3D",
-   "title": "SCARLET NEXUS Deluxe",
-   "price": 14.39,
-   "normal": 79.99,
-   "savings": 82,
-   "store": "IndieGala",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
-   "fallback": "https://www.wingamestore.com/images_boxshots/master/scarlet-nexus-1616171197.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=zF92ZX6e%2BGTJY23Hzp42mhl5ctHcsPYDVgby02hm7ik%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-6o6PdUkh9VoETYlJIvkupm4qZh%2BOqdu0QrazAq1CVsY%3D",
-   "title": "IL-2 Sturmovik: 1946",
-   "price": 1.82,
-   "normal": 9.99,
-   "savings": 82,
-   "store": "Gamesplanet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
-   "rating": 87,
-   "ratingText": "Very Positive",
-   "metacritic": 86,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945",
-   "url": "https://www.cheapshark.com/redirect?dealID=6o6PdUkh9VoETYlJIvkupm4qZh%2BOqdu0QrazAq1CVsY%3D",
-   "dealRating": 9.4,
-   "genres": [
-    "Simulation"
-   ],
-   "genre": "Simulation"
-  },
-  {
-   "id": "cs-1S97GvQpRhnCIFJRJ0ggB1bFcPvkXYpskuQ5qqbegDo%3D",
-   "title": "Wasteland Series Bundle",
-   "price": 19.19,
-   "normal": 95.98,
-   "savings": 80,
+   "id": "cs-pz2e9HMlfSSMWQk42%2FZRXQSzekXCqnkfoKsb0cQmoys%3D",
+   "title": "Golf With Your Friends - Complete the Set",
+   "price": 20.65,
+   "normal": 82.65,
+   "savings": 75,
    "store": "GOG",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
    "rating": 0,
    "ratingText": "",
    "metacritic": 0,
-   "image": "https://images.gog-statics.com/10ed04dc433ed2135f873c786203d126e0a44d92258face390028ebf05c1f272_product_tile_117h.webp",
-   "fallback": "https://images.gog-statics.com/10ed04dc433ed2135f873c786203d126e0a44d92258face390028ebf05c1f272_product_tile_117h.webp",
-   "url": "https://www.cheapshark.com/redirect?dealID=1S97GvQpRhnCIFJRJ0ggB1bFcPvkXYpskuQ5qqbegDo%3D",
-   "dealRating": 9.4,
+   "image": "https://images.gog-statics.com/7be5d53a256d959fcddb1dfe7e3b9565a3f9b0702255fa292361eec862b22364_product_tile_117h.webp",
+   "fallback": "https://images.gog-statics.com/7be5d53a256d959fcddb1dfe7e3b9565a3f9b0702255fa292361eec862b22364_product_tile_117h.webp",
+   "url": "https://www.cheapshark.com/redirect?dealID=pz2e9HMlfSSMWQk42%2FZRXQSzekXCqnkfoKsb0cQmoys%3D",
+   "dealRating": 9.3,
    "genres": [
     "Other"
    ],
    "genre": "Other"
+  },
+  {
+   "id": "cs-anrMV5XUEga1%2BYno3N%2BbB17FtY%2F301KGM1euKCOpe6Y%3D",
+   "title": "RiMS Racing",
+   "price": 2.5,
+   "normal": 49.99,
+   "savings": 95,
+   "store": "GamersGate",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
+   "rating": 64,
+   "ratingText": "Mixed",
+   "metacritic": 69,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346010/capsule_231x87.jpg?t=1759396011",
+   "url": "https://www.cheapshark.com/redirect?dealID=anrMV5XUEga1%2BYno3N%2BbB17FtY%2F301KGM1euKCOpe6Y%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Racing"
+   ],
+   "genre": "Racing"
   },
   {
    "id": "cs-0Irl7D%2BVVjeFtMYMMs5Hr1Oyo67TR0Z4UzuPXn9%2B2kM%3D",
@@ -2140,11 +2121,73 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1553000/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1553000/capsule_231x87.jpg?t=1764149578",
    "url": "https://www.cheapshark.com/redirect?dealID=0Irl7D%2BVVjeFtMYMMs5Hr1Oyo67TR0Z4UzuPXn9%2B2kM%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
    "genres": [
     "Strategy"
    ],
    "genre": "Strategy"
+  },
+  {
+   "id": "cs-5ScRtXAgJdneu0lcLq5wsZgXR92N0HuETgbUOdUQKCE%3D",
+   "title": "Splasher",
+   "price": 1.5,
+   "normal": 14.99,
+   "savings": 90,
+   "store": "GamersGate",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
+   "rating": 94,
+   "ratingText": "Very Positive",
+   "metacritic": 79,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950",
+   "url": "https://www.cheapshark.com/redirect?dealID=5ScRtXAgJdneu0lcLq5wsZgXR92N0HuETgbUOdUQKCE%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-niq3hBlOProhhMGGwkYVV0SeoggCh0si25QwsPp2HMQ%3D",
+   "title": "Europa Universalis IV",
+   "price": 4.99,
+   "normal": 49.99,
+   "savings": 90,
+   "store": "GOG",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
+   "rating": 86,
+   "ratingText": "Very Positive",
+   "metacritic": 87,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960",
+   "url": "https://www.cheapshark.com/redirect?dealID=niq3hBlOProhhMGGwkYVV0SeoggCh0si25QwsPp2HMQ%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
+  {
+   "id": "cs-7xy5A9tNsHVw8JjckcBDRr7PL6MXHN4jBwRXQ9GX6Ps%3D",
+   "title": "Metro 2033 Redux",
+   "price": 1.99,
+   "normal": 19.99,
+   "savings": 90,
+   "store": "Fanatical",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/14.png",
+   "rating": 88,
+   "ratingText": "Very Positive",
+   "metacritic": 90,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167",
+   "url": "https://www.cheapshark.com/redirect?dealID=7xy5A9tNsHVw8JjckcBDRr7PL6MXHN4jBwRXQ9GX6Ps%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action"
+   ],
+   "genre": "Action"
   },
   {
    "id": "cs-d8bomc2k5ALTGmqS1A5Vew0jV8LrEGRBBS7wPOHREA0%3D",
@@ -2160,7 +2203,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/capsule_231x87.jpg?t=1725354099",
    "url": "https://www.cheapshark.com/redirect?dealID=d8bomc2k5ALTGmqS1A5Vew0jV8LrEGRBBS7wPOHREA0%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
    "genres": [
     "Racing",
     "Simulation",
@@ -2182,7 +2225,7 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1067540/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1067540/capsule_231x87.jpg?t=1728376743",
    "url": "https://www.cheapshark.com/redirect?dealID=haBmFYOLTY4Xi3U3oVnVJy135%2Bdbep10TLJayW2BIHA%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
    "genres": [
     "Adventure",
     "Indie"
@@ -2203,7 +2246,117 @@
    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/530950/header.jpg",
    "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/530950/capsule_231x87.jpg?t=1727868949",
    "url": "https://www.cheapshark.com/redirect?dealID=iA%2FBJgt1IxedFfvqAqzboseJ76w5vV2mUujfTUIOhaw%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-%2Fiss9TE6SGg6pGO13lHRcjRQQ8dXqM7wvXmderQmrU0%3D",
+   "title": "112 Operator",
+   "price": 2.49,
+   "normal": 24.99,
+   "savings": 90,
+   "store": "IndieGala",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/29.png",
+   "rating": 89,
+   "ratingText": "Very Positive",
+   "metacritic": 73,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/793460/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/793460/5107a96362db550e0ac8650a4bf3ac900ce4bf2a/capsule_231x87.jpg?t=1791828263",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Fiss9TE6SGg6pGO13lHRcjRQQ8dXqM7wvXmderQmrU0%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "genre": "Strategy"
+  },
+  {
+   "id": "cs-DZjYhb6uoRMX56kLy0ERdj7JuPAraQSInrtv0G8NRE0%3D",
+   "title": "TT Isle of Man - Ride on the Edge 2",
+   "price": 3.0,
+   "normal": 29.99,
+   "savings": 90,
+   "store": "GameBillet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/22.png",
+   "rating": 82,
+   "ratingText": "Very Positive",
+   "metacritic": 70,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082180/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082180/capsule_231x87.jpg?t=1725352899",
+   "url": "https://www.cheapshark.com/redirect?dealID=DZjYhb6uoRMX56kLy0ERdj7JuPAraQSInrtv0G8NRE0%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Racing",
+    "RPG",
+    "Simulation",
+    "Sports"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D",
+   "title": "Far Cry New Dawn Complete Bundle",
+   "price": 13.5,
+   "normal": 99.99,
+   "savings": 86,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://images.greenmangaming.com/3fb6c037bbc443f294190401869d8253/a60ab0fa061041bda671b6b879657666.jpg",
+   "fallback": "https://images.greenmangaming.com/3fb6c037bbc443f294190401869d8253/a60ab0fa061041bda671b6b879657666.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=Br%2FzRC0uYWamO77o8Kj2mOJksxJSUpy2%2FPciTnOXEZk%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "genre": "Action"
+  },
+  {
+   "id": "cs-QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D",
+   "title": "Assassins Creed Origins Gold Edition",
+   "price": 13.5,
+   "normal": 99.99,
+   "savings": 86,
+   "store": "GreenManGaming",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg",
+   "fallback": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=QJXBRCe2xCDLU8dk1E7SRD4ZMhlbsqcqQt8zOyLswxQ%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "genre": "RPG"
+  },
+  {
+   "id": "cs-bbDhsPrZYolYjL%2BfLoLNtRexacEgiP34ypHBNXLPrRo%3D",
+   "title": "EVERSPACE - Encounters",
+   "price": 1.49,
+   "normal": 9.99,
+   "savings": 85,
+   "store": "WinGameStore",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/20.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 78,
+   "image": "https://sttc.gamersgate.com/images/product/everspacetm-encounters/cover-180-090b73.jpg",
+   "fallback": "https://sttc.gamersgate.com/images/product/everspacetm-encounters/cover-180-090b73.jpg",
+   "url": "https://www.cheapshark.com/redirect?dealID=bbDhsPrZYolYjL%2BfLoLNtRexacEgiP34ypHBNXLPrRo%3D",
+   "dealRating": 9.2,
    "genres": [
     "Action",
     "Indie"
@@ -2224,7 +2377,7 @@
    "image": "https://images.greenmangaming.com/6f5bf35c7fe24c5ca4d97d7c65604864/c40db0431ea749d382e2c24cade41a2b.jpg",
    "fallback": "https://images.greenmangaming.com/6f5bf35c7fe24c5ca4d97d7c65604864/c40db0431ea749d382e2c24cade41a2b.jpg",
    "url": "https://www.cheapshark.com/redirect?dealID=NBJWJqqImhbab7f0Ik3oGfwzeaAbcYXKru%2BvTNC2vWQ%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
    "genres": [
     "Action",
     "Casual",
@@ -2233,24 +2386,88 @@
    "genre": "Action"
   },
   {
-   "id": "cs-QJ9bx5q2pReWm9yhWk%2FLmZ1SUU8EuCpWJ9KH3rMkuHw%3D",
-   "title": "Torchlight",
-   "price": 2.4,
-   "normal": 14.99,
-   "savings": 84,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 91,
+   "id": "cs-6o6PdUkh9VoETYlJIvkupm4qZh%2BOqdu0QrazAq1CVsY%3D",
+   "title": "IL-2 Sturmovik: 1946",
+   "price": 1.82,
+   "normal": 9.99,
+   "savings": 82,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 87,
    "ratingText": "Very Positive",
-   "metacritic": 83,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/capsule_231x87.jpg?t=1791961309",
-   "url": "https://www.cheapshark.com/redirect?dealID=QJ9bx5q2pReWm9yhWk%2FLmZ1SUU8EuCpWJ9KH3rMkuHw%3D",
-   "dealRating": 9.3,
+   "metacritic": 86,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945",
+   "url": "https://www.cheapshark.com/redirect?dealID=6o6PdUkh9VoETYlJIvkupm4qZh%2BOqdu0QrazAq1CVsY%3D",
+   "dealRating": 9.2,
    "genres": [
+    "Simulation"
+   ],
+   "genre": "Simulation"
+  },
+  {
+   "id": "cs-1S97GvQpRhnCIFJRJ0ggB1bFcPvkXYpskuQ5qqbegDo%3D",
+   "title": "Wasteland Series Bundle",
+   "price": 19.19,
+   "normal": 95.98,
+   "savings": 80,
+   "store": "GOG",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/6.png",
+   "rating": 0,
+   "ratingText": "",
+   "metacritic": 0,
+   "image": "https://images.gog-statics.com/10ed04dc433ed2135f873c786203d126e0a44d92258face390028ebf05c1f272_product_tile_117h.webp",
+   "fallback": "https://images.gog-statics.com/10ed04dc433ed2135f873c786203d126e0a44d92258face390028ebf05c1f272_product_tile_117h.webp",
+   "url": "https://www.cheapshark.com/redirect?dealID=1S97GvQpRhnCIFJRJ0ggB1bFcPvkXYpskuQ5qqbegDo%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Other"
+   ],
+   "genre": "Other"
+  },
+  {
+   "id": "cs-6RfXBRCJ4ap%2BLlu3Dh2vOADjBqmfpaWGAi1jHc6Ms4w%3D",
+   "title": "Deaths Door",
+   "price": 3.99,
+   "normal": 19.99,
+   "savings": 80,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 93,
+   "ratingText": "Very Positive",
+   "metacritic": 85,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/894020/capsule_231x87.jpg?t=1788311627",
+   "url": "https://www.cheapshark.com/redirect?dealID=6RfXBRCJ4ap%2BLlu3Dh2vOADjBqmfpaWGAi1jHc6Ms4w%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
     "RPG"
    ],
    "genre": "RPG"
+  },
+  {
+   "id": "cs-pcyGqSREkA%2F2aM0L7tDFNyO%2BCtnqlDhdDw%2BSL5V%2BU1I%3D",
+   "title": "GRIS",
+   "price": 2.99,
+   "normal": 14.99,
+   "savings": 80,
+   "store": "Gamesplanet",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
+   "rating": 95,
+   "ratingText": "Overwhelmingly Positive",
+   "metacritic": 84,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/683320/capsule_231x87.jpg?t=1759429603",
+   "url": "https://www.cheapshark.com/redirect?dealID=pcyGqSREkA%2F2aM0L7tDFNyO%2BCtnqlDhdDw%2BSL5V%2BU1I%3D",
+   "dealRating": 9.2,
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "genre": "Adventure"
   },
   {
    "id": "cs-1fvV4IE5EoA4%2B%2BNTI8jdg3iXbGo8vQg7UXCY1rsEX28%3D",
@@ -2266,312 +2483,53 @@
    "image": "https://images.gog-statics.com/e389f0ec21e3796b4692e3a7d0ca5d40d33b5fea08754954f791ccefb8d6bba1_product_tile_117h.webp",
    "fallback": "https://images.gog-statics.com/e389f0ec21e3796b4692e3a7d0ca5d40d33b5fea08754954f791ccefb8d6bba1_product_tile_117h.webp",
    "url": "https://www.cheapshark.com/redirect?dealID=1fvV4IE5EoA4%2B%2BNTI8jdg3iXbGo8vQg7UXCY1rsEX28%3D",
-   "dealRating": 9.3,
+   "dealRating": 9.2,
    "genres": [
     "Other"
    ],
    "genre": "Other"
   },
   {
-   "id": "cs-9pPX6jYpuKQOYejiF%2Fsxq01lUE%2Bom4K0QEGqorE3Y04%3D",
-   "title": "Hunting Simulator 2",
-   "price": 1.71,
-   "normal": 39.99,
-   "savings": 96,
-   "store": "Gamesplanet",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/26.png",
-   "rating": 70,
-   "ratingText": "Mostly Positive",
-   "metacritic": 63,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1135910/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1135910/capsule_231x87.jpg?t=1778174003",
-   "url": "https://www.cheapshark.com/redirect?dealID=9pPX6jYpuKQOYejiF%2Fsxq01lUE%2Bom4K0QEGqorE3Y04%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Simulation",
-    "Sports",
-    "Strategy"
-   ],
-   "genre": "Strategy"
-  },
-  {
-   "id": "cs-0NHQAM9sX1HLo5yDjPcKEnZQP4SctHQFrbOja9CQRiU%3D",
-   "title": "The Last Friend",
-   "price": 1.19,
+   "id": "cs-QJ9bx5q2pReWm9yhWk%2FLmZ1SUU8EuCpWJ9KH3rMkuHw%3D",
+   "title": "Torchlight",
+   "price": 2.4,
    "normal": 14.99,
-   "savings": 92,
-   "store": "Fanatical",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/14.png",
-   "rating": 88,
-   "ratingText": "Very Positive",
-   "metacritic": 86,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/944430/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/944430/capsule_231x87.jpg?t=1754587086",
-   "url": "https://www.cheapshark.com/redirect?dealID=0NHQAM9sX1HLo5yDjPcKEnZQP4SctHQFrbOja9CQRiU%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Indie",
-    "Strategy"
-   ],
-   "genre": "Strategy"
-  },
-  {
-   "id": "cs-mRyUk7i8OlfDLck3LidNbYNSq%2B4jtbRifh5S25bV3vk%3D",
-   "title": "Styx: Master of Shadows",
-   "price": 2.0,
-   "normal": 19.98,
-   "savings": 90,
-   "store": "DreamGame",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/34.png",
-   "rating": 81,
-   "ratingText": "Very Positive",
-   "metacritic": 71,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242640/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242640/capsule_231x87.jpg?t=1778174590",
-   "url": "https://www.cheapshark.com/redirect?dealID=mRyUk7i8OlfDLck3LidNbYNSq%2B4jtbRifh5S25bV3vk%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-nxrnYZPQ%2FN2XroxyYO%2BYENVy02e6q79T49455V4OJ1I%3D",
-   "title": "Moonlighter",
-   "price": 1.99,
-   "normal": 19.99,
-   "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 80,
-   "ratingText": "Very Positive",
-   "metacritic": 74,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606150/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/606150/0ce5d10f8dfca4114ddc7579f1edc0e700bd3deb/capsule_231x87.jpg?t=1793636738",
-   "url": "https://www.cheapshark.com/redirect?dealID=nxrnYZPQ%2FN2XroxyYO%2BYENVy02e6q79T49455V4OJ1I%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Indie"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-BziBDBEN4eig0h%2F2uecKFGVX9w5avRBpLSdHyBOqv9s%3D",
-   "title": "RoboCop: Rogue City",
-   "price": 5.0,
-   "normal": 49.99,
-   "savings": 90,
-   "store": "GamersGate",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/1.png",
-   "rating": 86,
-   "ratingText": "Very Positive",
-   "metacritic": 76,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302",
-   "url": "https://www.cheapshark.com/redirect?dealID=BziBDBEN4eig0h%2F2uecKFGVX9w5avRBpLSdHyBOqv9s%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-MMTKpgFFpjanMzaUVCze4ETCgy6FtTebuJZfYUptveQ%3D",
-   "title": "Borderlands: The Pre-Sequel",
-   "price": 3.99,
-   "normal": 39.99,
-   "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 75,
-   "ratingText": "Mostly Positive",
-   "metacritic": 75,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/capsule_231x87.jpg?t=1750081341",
-   "url": "https://www.cheapshark.com/redirect?dealID=MMTKpgFFpjanMzaUVCze4ETCgy6FtTebuJZfYUptveQ%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-ocAxVNEdgkJ9Rayz8s9Aqxp71oywOCbdKf2VJS7bAtg%3D",
-   "title": "The Smurfs - Mission Vileaf",
-   "price": 1.99,
-   "normal": 19.99,
-   "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 82,
-   "ratingText": "Very Positive",
-   "metacritic": 73,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502560/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502560/capsule_231x87.jpg?t=1743167767",
-   "url": "https://www.cheapshark.com/redirect?dealID=ocAxVNEdgkJ9Rayz8s9Aqxp71oywOCbdKf2VJS7bAtg%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-KjZDz9f5djPMAz5tm6FAxuomH94mrqxsbSgkT5%2FRZjE%3D",
-   "title": "Of Orcs and Men",
-   "price": 1.5,
-   "normal": 14.99,
-   "savings": 90,
-   "store": "DreamGame",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/34.png",
-   "rating": 76,
-   "ratingText": "Mostly Positive",
-   "metacritic": 69,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216910/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216910/capsule_231x87.jpg?t=1758742584",
-   "url": "https://www.cheapshark.com/redirect?dealID=KjZDz9f5djPMAz5tm6FAxuomH94mrqxsbSgkT5%2FRZjE%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-Q8zxILWkIYqIiMuGjN9rkN9rfBjldR1fLDsZHwLTFVA%3D",
-   "title": "Wayfinder",
-   "price": 2.49,
-   "normal": 24.99,
-   "savings": 90,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 69,
-   "ratingText": "Mixed",
-   "metacritic": 73,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1171690/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1171690/a2ebc0f10f9b71eabfb150dfc05195cad94cdb68/capsule_231x87.jpg?t=1768340055",
-   "url": "https://www.cheapshark.com/redirect?dealID=Q8zxILWkIYqIiMuGjN9rkN9rfBjldR1fLDsZHwLTFVA%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure",
-    "RPG"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-9unHxDjIZfGumDQhZkb8j02LGSvH6Lao2ICicJN7ASI%3D",
-   "title": "Marvels Midnight Suns",
-   "price": 8.1,
-   "normal": 59.99,
-   "savings": 86,
+   "savings": 84,
    "store": "GreenManGaming",
    "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 83,
+   "rating": 91,
    "ratingText": "Very Positive",
    "metacritic": 83,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368260/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368260/capsule_231x87.jpg?t=1732138093",
-   "url": "https://www.cheapshark.com/redirect?dealID=9unHxDjIZfGumDQhZkb8j02LGSvH6Lao2ICicJN7ASI%3D",
-   "dealRating": 9.2,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/41500/capsule_231x87.jpg?t=1791961309",
+   "url": "https://www.cheapshark.com/redirect?dealID=QJ9bx5q2pReWm9yhWk%2FLmZ1SUU8EuCpWJ9KH3rMkuHw%3D",
+   "dealRating": 9.1,
    "genres": [
-    "RPG",
-    "Strategy"
-   ],
-   "genre": "RPG"
-  },
-  {
-   "id": "cs-yRKCNX53UbyYDGO4%2BppnIi%2BlQePTsIlFNBIC%2BTVvS7M%3D",
-   "title": "Sumire",
-   "price": 0.83,
-   "normal": 5.99,
-   "savings": 86,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 95,
-   "ratingText": "Overwhelmingly Positive",
-   "metacritic": 78,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1335230/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1335230/capsule_231x87.jpg?t=1650869264",
-   "url": "https://www.cheapshark.com/redirect?dealID=yRKCNX53UbyYDGO4%2BppnIi%2BlQePTsIlFNBIC%2BTVvS7M%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Adventure",
-    "Casual",
-    "Indie"
-   ],
-   "genre": "Adventure"
-  },
-  {
-   "id": "cs-BfyLP1SjMhSfo62%2FNBNSTyxnUPX6%2BnGYK990MAiT57s%3D",
-   "title": "Far Cry New Dawn Ultimate Bundle",
-   "price": 17.55,
-   "normal": 129.99,
-   "savings": 86,
-   "store": "GreenManGaming",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/2.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://images.greenmangaming.com/f96a0c07660448b5ba49e251f8ffab4b/16ed496a06bd4a6c915cc367e329824b.jpg",
-   "fallback": "https://images.greenmangaming.com/f96a0c07660448b5ba49e251f8ffab4b/16ed496a06bd4a6c915cc367e329824b.jpg",
-   "url": "https://www.cheapshark.com/redirect?dealID=BfyLP1SjMhSfo62%2FNBNSTyxnUPX6%2BnGYK990MAiT57s%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "genre": "Action"
-  },
-  {
-   "id": "cs-I9Nsiw15O%2BG%2BXevP4b%2BdfnYiAcyADgrMGfTUx0m1iA8%3D",
-   "title": "Children of Morta",
-   "price": 3.29,
-   "normal": 21.99,
-   "savings": 85,
-   "store": "Steam",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
-   "rating": 88,
-   "ratingText": "Very Positive",
-   "metacritic": 82,
-   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg",
-   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330020/capsule_231x87.jpg?t=1793636900",
-   "url": "https://www.cheapshark.com/redirect?dealID=I9Nsiw15O%2BG%2BXevP4b%2BdfnYiAcyADgrMGfTUx0m1iA8%3D",
-   "dealRating": 9.2,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Indie",
     "RPG"
    ],
    "genre": "RPG"
   },
   {
-   "id": "cs-VInMhsJ%2F5VKKxv1MJWk5lvGgKiq9HjcIiewGo%2FPmGcs%3D",
-   "title": "Far Cry 5 and Far Cry New Dawn Deluxe Edition Bundle",
-   "price": 14.99,
-   "normal": 99.99,
-   "savings": 85,
-   "store": "Humble Store",
-   "storeIcon": "https://www.cheapshark.com/img/stores/icons/10.png",
-   "rating": 0,
-   "ratingText": "",
-   "metacritic": 0,
-   "image": "https://cdn.humblebundle.com/misc/files/hashed/85970297dbcd85c44bd2112f2e33292144559ef1.png",
-   "fallback": "https://cdn.humblebundle.com/misc/files/hashed/85970297dbcd85c44bd2112f2e33292144559ef1.png",
-   "url": "https://www.cheapshark.com/redirect?dealID=VInMhsJ%2F5VKKxv1MJWk5lvGgKiq9HjcIiewGo%2FPmGcs%3D",
-   "dealRating": 9.2,
+   "id": "cs-XOYard89AJhM%2BioC7Cc50MyY9xVZtCIttfcZaNymw38%3D",
+   "title": "Anomaly: Warzone Earth",
+   "price": 1.59,
+   "normal": 9.99,
+   "savings": 84,
+   "store": "Steam",
+   "storeIcon": "https://www.cheapshark.com/img/stores/icons/0.png",
+   "rating": 84,
+   "ratingText": "Very Positive",
+   "metacritic": 80,
+   "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/header.jpg",
+   "fallback": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_231x87.jpg?t=1634818526",
+   "url": "https://www.cheapshark.com/redirect?dealID=XOYard89AJhM%2BioC7Cc50MyY9xVZtCIttfcZaNymw38%3D",
+   "dealRating": 9.1,
    "genres": [
-    "Other"
+    "Action",
+    "Indie",
+    "Strategy"
    ],
-   "genre": "Other"
+   "genre": "Strategy"
   }
  ],
  "genres": [
